@@ -10,11 +10,13 @@
     "generate-screenshots": "scripts/templates-serve.js & (sleep 2 && scripts/templates-screenshot.js && kill -9 $(pgrep -f templates-serve))",
     "format": "prettier-standard **/*.js --format",
     "lint": "prettier-standard  **/*.js --lint",
-    "convert-to-json": "node scripts/convert-to-json.js"
+    "convert-to-json": "node scripts/convert-to-json.js",
+    "add-korean-meaning": "node scripts/add-korean-meaning.js"
   },
   "devDependencies": {
     "csv-parse": "^5.6.0",
     "express": "^4.18.1",
+    "google-translate-api": "^2.3.0",
     "prettier-standard": "^16.4.1",
     "puppeteer": "^15.5.0"
   }
