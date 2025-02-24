@@ -11,38 +11,29 @@ const n5 = JSON.parse(fs.readFileSync('src/n5.json', 'utf8'));
 
 // HTML 템플릿 생성 함수
 function createHtmlTemplate(data, level) {
-  const title = `JLPT N${level} 단어장`;
   let html = `
 <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title}</title>
     <style>
         table { border-collapse: collapse; width: 100%; }
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
         .expression { font-size: 1.2em; }
-        .reading { color: #666; }
-        .meaning { color: #333; }
     </style>
 </head>
 <body>
-    <h1>${title}</h1>
     <table>
         <tr>
             <th>단어</th>
-            <th>읽는 법</th>
-            <th>의미</th>
         </tr>`;
 
   data.forEach(item => {
     html += `
         <tr>
             <td class="expression">${item.expression}</td>
-            <td class="reading">${item.reading}</td>
-            <td class="meaning">${item.meaning}</td>
         </tr>`;
   });
 
