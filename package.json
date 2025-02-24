@@ -11,7 +11,7 @@
     "format": "prettier-standard **/*.js --format",
     "lint": "prettier-standard  **/*.js --lint",
     "convert-to-json": "node scripts/convert-to-json.js",
-    "add-korean-meaning": "node scripts/add-korean-meaning.js"
+    "make-html": "node scripts/make-html.js"
   },
   "devDependencies": {
     "csv-parse": "^5.6.0",
