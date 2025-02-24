@@ -1,0 +1,7080 @@
+[
+  {
+    "expression": "踏む",
+    "reading": "ふむ",
+    "meaning": "to step on, to tread on",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "MD)?c2/f%j"
+  },
+  {
+    "expression": "～区",
+    "reading": "～く",
+    "meaning": "~ district, ~ ward, ~ borough",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "jyNlO!<_rh"
+  },
+  {
+    "expression": "すっと",
+    "reading": "すっと",
+    "meaning": "straight, quickly",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k|7>>bJ_;p"
+  },
+  {
+    "expression": "盗む",
+    "reading": "ぬすむ",
+    "meaning": "to steal; to rob",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "yRRr.o{S!G"
+  },
+  {
+    "expression": "大抵",
+    "reading": "たいてい",
+    "meaning": "generally, usually",
+    "tags": [
+      "Genki",
+      "Genki_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "F4RWhn9KV7"
+  },
+  {
+    "expression": "とうとう",
+    "reading": "とうとう",
+    "meaning": "finally, at last",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b~a!BAlss]"
+  },
+  {
+    "expression": "ガソリン",
+    "reading": "ガソリン",
+    "meaning": "gasoline, petrol",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DtjnF2f-}S"
+  },
+  {
+    "expression": "鳴る",
+    "reading": "なる",
+    "meaning": "to sound, to ring (v.i.)",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "N2XM.u#*9T"
+  },
+  {
+    "expression": "しっかり",
+    "reading": "しっかり",
+    "meaning": "firmly, steady",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s1@<ogH]|l"
+  },
+  {
+    "expression": "生きる",
+    "reading": "いきる",
+    "meaning": "to live",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PsYPR<^eS}"
+  },
+  {
+    "expression": "苦い",
+    "reading": "にがい",
+    "meaning": "bitter",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s7onh_qmu>"
+  },
+  {
+    "expression": "沸く",
+    "reading": "わく",
+    "meaning": "to boil, to grow hot",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PG:x_[8:n{"
+  },
+  {
+    "expression": "意見",
+    "reading": "いけん",
+    "meaning": "opinion, view, idea",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rm|oi`$1Dg"
+  },
+  {
+    "expression": "やはり; やっぱり",
+    "reading": "やはり; やっぱり",
+    "meaning": "as I thought, absolutely",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uKv@@b~bnv"
+  },
+  {
+    "expression": "漫画",
+    "reading": "まんが",
+    "meaning": "comic (book), cartoon",
+    "tags": [
+      "Genki",
+      "Genki_Ln.14",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l|R^YmR+|c"
+  },
+  {
+    "expression": "ステレオ",
+    "reading": "ステレオ",
+    "meaning": "stereo",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j)<hxBenH^"
+  },
+  {
+    "expression": "医学",
+    "reading": "いがく",
+    "meaning": "medical science",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j>$AcgpmMe"
+  },
+  {
+    "expression": "テキスト",
+    "reading": "テキスト",
+    "meaning": "text; text book",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tNueVeWq/i"
+  },
+  {
+    "expression": "～月",
+    "reading": "～つき",
+    "meaning": "month",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fmd>SOFFek"
+  },
+  {
+    "expression": "折る",
+    "reading": "おる",
+    "meaning": "to snap, to break; to bend",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "yVVu7>5}8_"
+  },
+  {
+    "expression": "～会",
+    "reading": "～かい",
+    "meaning": "~ meeting",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q`5&BgJq(Y"
+  },
+  {
+    "expression": "うかがう",
+    "reading": "うかがう",
+    "meaning": "to ask",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i(<6VU5W9O"
+  },
+  {
+    "expression": "聞こえる",
+    "reading": "きこえる",
+    "meaning": "to be heard, to be audible",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "quf~I<>p>"
+  },
+  {
+    "expression": "僕",
+    "reading": "ぼく",
+    "meaning": "I (used by men towards those of equal or lower status)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sZrMWgN[D["
+  },
+  {
+    "expression": "必ず",
+    "reading": "かならず",
+    "meaning": "surely, certainly",
+    "tags": [
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t=>{J>bIy^"
+  },
+  {
+    "expression": "壊す",
+    "reading": "こわす",
+    "meaning": "to break, to break down",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d^9}5OH`;*"
+  },
+  {
+    "expression": "怒る",
+    "reading": "おこる",
+    "meaning": "to get angry; to scold angrily",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ib^RmCfT#f"
+  },
+  {
+    "expression": "床屋",
+    "reading": "とこや",
+    "meaning": "barber's (shop)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t^jDr`iefA"
+  },
+  {
+    "expression": "オートバイ",
+    "reading": "オートバイ",
+    "meaning": "motorcycle (lit: auto-bi(ke))",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Pt[L]fX^FJ"
+  },
+  {
+    "expression": "運動",
+    "reading": "うんどうする",
+    "meaning": "exercise",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "=pK+M[-/J"
+  },
+  {
+    "expression": "止む",
+    "reading": "やむ",
+    "meaning": "to cease, to stop",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i[hf?*~a)V"
+  },
+  {
+    "expression": "もし",
+    "reading": "もし",
+    "meaning": "if",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oLI2n{GVOs"
+  },
+  {
+    "expression": "表",
+    "reading": "おもて",
+    "meaning": "surface; front; outside",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qP[jTS0$-o"
+  },
+  {
+    "expression": "大学生",
+    "reading": "だいがくせい",
+    "meaning": "college student, university student",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "cCEA>;7p%n"
+  },
+  {
+    "expression": "運転手",
+    "reading": "うんてんしゅ",
+    "meaning": "driver (by occupation)",
+    "tags": [
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c=1Zd>L>/{"
+  },
+  {
+    "expression": "予習",
+    "reading": "よしゅう",
+    "meaning": "preparation of lessons (for class)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A$348:bL<R"
+  },
+  {
+    "expression": "心配",
+    "reading": "しんぱいする",
+    "meaning": "worry, concern",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "reB^;ntMm;"
+  },
+  {
+    "expression": "別",
+    "reading": "べつ",
+    "meaning": "distinction, different",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pvVM*k}K*D"
+  },
+  {
+    "expression": "非常に",
+    "reading": "ひじょうに",
+    "meaning": "extremely; very",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ih.~ep.W8C"
+  },
+  {
+    "expression": "お宅",
+    "reading": "おたく",
+    "meaning": "(someone else's) house; home -- polite word for 家 (いえ) --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G:h,g@5k[b"
+  },
+  {
+    "expression": "柔らかい",
+    "reading": "やわらかい",
+    "meaning": "soft (in reference to texture), tender",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Mb;<89jf/c"
+  },
+  {
+    "expression": "拾う",
+    "reading": "ひろう",
+    "meaning": "to pick up (something), to find",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A7mxJIkuGg"
+  },
+  {
+    "expression": "～ございます",
+    "reading": "～ございます",
+    "meaning": "to be (polite), to exist",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kMO?quX[B$"
+  },
+  {
+    "expression": "気",
+    "reading": "き",
+    "meaning": "spirit, mood",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "N`FU2bb#2c"
+  },
+  {
+    "expression": "比べる",
+    "reading": "くらべる",
+    "meaning": "to compare",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OXHWkwV:?8"
+  },
+  {
+    "expression": "ほとんど",
+    "reading": "ほとんど",
+    "meaning": "mostly, almost",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "nQ>_aG@b-U"
+  },
+  {
+    "expression": "つもり",
+    "reading": "つもり",
+    "meaning": "intention, plan",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fOH84**JB]"
+  },
+  {
+    "expression": "郊外",
+    "reading": "こうがい",
+    "meaning": "suburb, outskirts",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m[#TphS~Yp"
+  },
+  {
+    "expression": "だめ",
+    "reading": "だめ",
+    "meaning": "useless, no good, hopeless",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "F`}=@;2gGr"
+  },
+  {
+    "expression": "売り場",
+    "reading": "うりば",
+    "meaning": "place where things are sold",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g8Zs2)0MYs"
+  },
+  {
+    "expression": "正月",
+    "reading": "しょうがつ",
+    "meaning": "New Year, New Year's Day",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z?cV&4IRT$"
+  },
+  {
+    "expression": "規則",
+    "reading": "きそく",
+    "meaning": "rule, regulation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fX,<9qoCbI"
+  },
+  {
+    "expression": "うん",
+    "reading": "うん",
+    "meaning": "yes (informal), all right (ok)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "AU=4aGU<;g"
+  },
+  {
+    "expression": "発音",
+    "reading": "はつおん",
+    "meaning": "pronunciation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ij2OK3T1KH"
+  },
+  {
+    "expression": "焼く",
+    "reading": "やく",
+    "meaning": "to bake, to grill",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ze5y7QDk;*"
+  },
+  {
+    "expression": "屋上",
+    "reading": "おくじょう",
+    "meaning": "rooftop",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dNyWHH2le2"
+  },
+  {
+    "expression": "失礼",
+    "reading": "しつれい",
+    "meaning": "discourtesy, impoliteness; Excuse me",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i}rJ2aUEQY"
+  },
+  {
+    "expression": "ごみ",
+    "reading": "ごみ",
+    "meaning": "trash, garbage",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l0zGWz;u*B"
+  },
+  {
+    "expression": "アフリカ",
+    "reading": "アフリカ",
+    "meaning": "Africa",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s(eSC66i0("
+  },
+  {
+    "expression": "点",
+    "reading": "てん",
+    "meaning": "mark, score, grade; point, dot",
+    "tags": [
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xl]z9.M3ii"
+  },
+  {
+    "expression": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "meaning": "very hard (as in \"to work hard\"), with utmost effort",
+    "tags": [
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "x}#WG:x<B%"
+  },
+  {
+    "expression": "今度",
+    "reading": "こんど",
+    "meaning": "now, this time, near future, one of these days, next time",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c3M,%sgpuH"
+  },
+  {
+    "expression": "機会",
+    "reading": "きかい",
+    "meaning": "chance, opportunity",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QN(r}6a#1P"
+  },
+  {
+    "expression": "建てる",
+    "reading": "たてる",
+    "meaning": "to build",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p>?r}3Zl{s"
+  },
+  {
+    "expression": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "complexity, complication",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "CH}=lqHM1."
+  },
+  {
+    "expression": "彼",
+    "reading": "かれ",
+    "meaning": "he, boyfriend",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t}ZPEKulM{"
+  },
+  {
+    "expression": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "meaning": "-- honorific expression for いく, くる, and いる --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q4xt(yor`^"
+  },
+  {
+    "expression": "布団",
+    "reading": "ふとん",
+    "meaning": "futon",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "o9cl6;pq_D"
+  },
+  {
+    "expression": "大事",
+    "reading": "だいじ",
+    "meaning": "important, valuable, serious matter",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K-;(kx?ed|"
+  },
+  {
+    "expression": "贈り物",
+    "reading": "おくりもの",
+    "meaning": "a gift; a present",
+    "tags": [
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ea]7XukKd^"
+  },
+  {
+    "expression": "泥棒",
+    "reading": "どろぼう",
+    "meaning": "thief; burglar",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q/[sonb>SP"
+  },
+  {
+    "expression": "～製",
+    "reading": "～せい",
+    "meaning": "made in ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "I|]_Gf;YLD"
+  },
+  {
+    "expression": "注意",
+    "reading": "ちゅうい",
+    "meaning": "caution, attention",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tSqn:MggQx"
+  },
+  {
+    "expression": "台風",
+    "reading": "たいふう",
+    "meaning": "typhoon",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uFiu<};|%T"
+  },
+  {
+    "expression": "日",
+    "reading": "ひ",
+    "meaning": "sun, sunshine, day",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ap$ELNr5>B"
+  },
+  {
+    "expression": "～軒",
+    "reading": "～けん",
+    "meaning": "counter for houses",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KbFf,NH{5y"
+  },
+  {
+    "expression": "そう",
+    "reading": "そう",
+    "meaning": "really, (is that) so; yes, right",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wr0#d-auwR"
+  },
+  {
+    "expression": "通る",
+    "reading": "とおる",
+    "meaning": "to pass (by), to go through",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z?tZP}u#Ea"
+  },
+  {
+    "expression": "過ぎる",
+    "reading": "すぎる",
+    "meaning": "to exceed, to go beyond",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O_}jg<!z1-"
+  },
+  {
+    "expression": "レポート; リポート",
+    "reading": "レポート; リポート",
+    "meaning": "report",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xai}>:G-4a"
+  },
+  {
+    "expression": "葉",
+    "reading": "は",
+    "meaning": "leaf",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xQbxW<V1k4"
+  },
+  {
+    "expression": "必要",
+    "reading": "ひつよう",
+    "meaning": "necessary",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ty_M]/QA_N"
+  },
+  {
+    "expression": "課長",
+    "reading": "かちょう",
+    "meaning": "section manager",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q;5M-:Rtr;"
+  },
+  {
+    "expression": "地震",
+    "reading": "じしん",
+    "meaning": "earthquake",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DGTtnnC4Nd"
+  },
+  {
+    "expression": "すると",
+    "reading": "すると",
+    "meaning": "and, then",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Fz>2(<Q3D%"
+  },
+  {
+    "expression": "止める",
+    "reading": "やめる",
+    "meaning": "to end, to stop",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w08D;C[*x`"
+  },
+  {
+    "expression": "ガラス",
+    "reading": "ガラス",
+    "meaning": "glass, pane",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Wl!XdU*F<"
+  },
+  {
+    "expression": "～学部",
+    "reading": "～がくぶ",
+    "meaning": "department of a university",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qq2at6CGnZ"
+  },
+  {
+    "expression": "厳しい",
+    "reading": "きびしい",
+    "meaning": "hard; rigorous; strict",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pjG^I!L.;w"
+  },
+  {
+    "expression": "エスカレーター",
+    "reading": "エスカレーター",
+    "meaning": "escalator",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y6e9BNnN(6"
+  },
+  {
+    "expression": "人口",
+    "reading": "じんこう",
+    "meaning": "population",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h:04.`><%U"
+  },
+  {
+    "expression": "月",
+    "reading": "つき",
+    "meaning": "moon",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g.!8Tz-L0l"
+  },
+  {
+    "expression": "絹",
+    "reading": "きぬ",
+    "meaning": "silk",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tNV0})jEsh"
+  },
+  {
+    "expression": "ちっとも",
+    "reading": "ちっとも",
+    "meaning": "not at all (neg. verb)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p(lsw|$R1V"
+  },
+  {
+    "expression": "深い",
+    "reading": "ふかい",
+    "meaning": "deep, profound",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "N%G$/Va72i"
+  },
+  {
+    "expression": "壊れる",
+    "reading": "こわれる",
+    "meaning": "to be broken, to break",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PH#eB=.[|i"
+  },
+  {
+    "expression": "揺れる",
+    "reading": "ゆれる",
+    "meaning": "to shake, to sway",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "CJT@S-rGcq"
+  },
+  {
+    "expression": "落る",
+    "reading": "おちる",
+    "meaning": "to fall, to drop",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QEWE{hX5.8"
+  },
+  {
+    "expression": "できるだけ",
+    "reading": "できるだけ",
+    "meaning": "if at all possible, as much as possible",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z|27hHgqS."
+  },
+  {
+    "expression": "悲しい",
+    "reading": "かなしい",
+    "meaning": "sad, sorrowful",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P[6ROxur[z"
+  },
+  {
+    "expression": "中学校",
+    "reading": "ちゅうがっこう",
+    "meaning": "junior high school pupil",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "o@F6a}&sDT"
+  },
+  {
+    "expression": "ガス",
+    "reading": "ガス",
+    "meaning": "gas",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J0vS6#XFQP"
+  },
+  {
+    "expression": "祈る",
+    "reading": "いのる",
+    "meaning": "to pray; to wish",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gOVf)x5I|I"
+  },
+  {
+    "expression": "盛ん",
+    "reading": "さかん",
+    "meaning": "prosperous, active, thriving",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iN0&Vv}z1G"
+  },
+  {
+    "expression": "アルバイト",
+    "reading": "アルバイト",
+    "meaning": "part-time job",
+    "tags": [
+      "Genki",
+      "Genki_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uhbB_H_zmK"
+  },
+  {
+    "expression": "起こす",
+    "reading": "おこす",
+    "meaning": "to wake (someone) up",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e)?&!q93%0"
+  },
+  {
+    "expression": "致す",
+    "reading": "いたす",
+    "meaning": "-- extra-modest expression for する --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s{uMBFr}QR"
+  },
+  {
+    "expression": "噛む",
+    "reading": "かむ",
+    "meaning": "to bite, to chew",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E0N_YXN>-x"
+  },
+  {
+    "expression": "赤ちゃん",
+    "reading": "あかちゃん",
+    "meaning": "baby, infant",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s09]7w9[]D"
+  },
+  {
+    "expression": "浅い",
+    "reading": "あさい",
+    "meaning": "shallow, superficial",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Bq97rav-&k"
+  },
+  {
+    "expression": "嘘",
+    "reading": "うそ",
+    "meaning": "lie",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dDVZZUX$0%"
+  },
+  {
+    "expression": "小説",
+    "reading": "しょうせつ",
+    "meaning": "novel",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k;Wm8^zP:1"
+  },
+  {
+    "expression": "親",
+    "reading": "おや",
+    "meaning": "a parent",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EM~YxWr$Fw"
+  },
+  {
+    "expression": "それに",
+    "reading": "それに",
+    "meaning": "moreover; besides",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q*Vh;RO@9L"
+  },
+  {
+    "expression": "西洋",
+    "reading": "せいよう",
+    "meaning": "the West, Western countries",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "CYHizo6/]:"
+  },
+  {
+    "expression": "思う",
+    "reading": "おもう",
+    "meaning": "to think, to feel",
+    "tags": [
+      "Genki",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bu>M]5SnGX"
+  },
+  {
+    "expression": "パート (タイム)",
+    "reading": "パート (タイム)",
+    "meaning": "part time (esp. female part time employees)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v_m4?zP2.9"
+  },
+  {
+    "expression": "時代",
+    "reading": "じだい",
+    "meaning": "age, period, epoch, era",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "L?Q&>175XG"
+  },
+  {
+    "expression": "申し上げる",
+    "reading": "もうしあげる",
+    "meaning": "(humble)to say, to tell",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "GF+@f2CV$T"
+  },
+  {
+    "expression": "～式",
+    "reading": "～しき",
+    "meaning": "~ ceremony; ~ style",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r&5Ybsff,l"
+  },
+  {
+    "expression": "出席",
+    "reading": "しゅっせきする",
+    "meaning": "attendance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "veUCYD:#[?"
+  },
+  {
+    "expression": "～家",
+    "reading": "～か",
+    "meaning": "person who is specialized in ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "jmL@^X(3xD"
+  },
+  {
+    "expression": "迎える",
+    "reading": "むかえる",
+    "meaning": "to welcome; to meet; to greet",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c)r?fC@d`X"
+  },
+  {
+    "expression": "触る",
+    "reading": "さわる",
+    "meaning": "to touch, to feel",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EE}]!?vk-o"
+  },
+  {
+    "expression": "建て",
+    "reading": "～だて",
+    "meaning": "~ storied, separate housing",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O;BgWj4xcP"
+  },
+  {
+    "expression": "社長",
+    "reading": "しゃちょう",
+    "meaning": "president of a company",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "esu`;_q%~}"
+  },
+  {
+    "expression": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "zoo",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LA>0An]TpD"
+  },
+  {
+    "expression": "捕まえる",
+    "reading": "つかまえる",
+    "meaning": "to catch, to arrest",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dxA,$K8Jjo"
+  },
+  {
+    "expression": "季節",
+    "reading": "きせつ",
+    "meaning": "season (in reference to weather)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "H-HO2,.Mf&"
+  },
+  {
+    "expression": "寄る",
+    "reading": "よる",
+    "meaning": "to stop by",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wowQrA=!@I"
+  },
+  {
+    "expression": "決まる",
+    "reading": "きまる",
+    "meaning": "to be set; fixed (v.i.)",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ftU/w6Rm9)"
+  },
+  {
+    "expression": "開く",
+    "reading": "ひらく",
+    "meaning": "to open; to hold (an event)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EqW3}ML(%4"
+  },
+  {
+    "expression": "逃げる",
+    "reading": "にげる",
+    "meaning": "to escape, to run away",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "olt^H[(k%k"
+  },
+  {
+    "expression": "だから",
+    "reading": "だから",
+    "meaning": "so; therefore",
+    "tags": [
+      "Genki",
+      "Genki_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l,%/>C{Y}S"
+  },
+  {
+    "expression": "残念",
+    "reading": "ざんねん",
+    "meaning": "regret; regrettable",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "u8P;}KnN>M"
+  },
+  {
+    "expression": "畳",
+    "reading": "たたみ",
+    "meaning": "tatami mat (Japanese straw mat)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K6&+!%&]%g"
+  },
+  {
+    "expression": "丁寧",
+    "reading": "ていねい",
+    "meaning": "polite, courteous, careful",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y#[3yo1.4|"
+  },
+  {
+    "expression": "地理",
+    "reading": "ちり",
+    "meaning": "geography",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "L>P&NZL8Ln"
+  },
+  {
+    "expression": "さっき",
+    "reading": "さっき",
+    "meaning": "a little while ago",
+    "tags": [
+      "Genki",
+      "Genki_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K6.[:IAM|."
+  },
+  {
+    "expression": "怖い",
+    "reading": "こわい",
+    "meaning": "scary, frightening",
+    "tags": [
+      "Genki",
+      "Genki_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oO+f.U&hT("
+  },
+  {
+    "expression": "包む",
+    "reading": "つつむ",
+    "meaning": "to wrap, to cover",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j.kjH)CP:g"
+  },
+  {
+    "expression": "なるべく",
+    "reading": "なるべく",
+    "meaning": "if possible, as much as possible",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "N|K[$y_r^["
+  },
+  {
+    "expression": "無理",
+    "reading": "むり",
+    "meaning": "unreasonable, impossible",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i]oOmAHlg9"
+  },
+  {
+    "expression": "サンドイッチ",
+    "reading": "サンドイッチ",
+    "meaning": "sandwich",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Lah$0,$FHs"
+  },
+  {
+    "expression": "会議室",
+    "reading": "かいぎしつ",
+    "meaning": "conference room",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oxHUFdCY;/"
+  },
+  {
+    "expression": "品物",
+    "reading": "しなもの",
+    "meaning": "goods",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kiGyZq*rIU"
+  },
+  {
+    "expression": "人形",
+    "reading": "にんぎょう",
+    "meaning": "doll, figure",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vPlJ&v75[Q"
+  },
+  {
+    "expression": "利用",
+    "reading": "りよう",
+    "meaning": "use, utilization",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Rh@8N~e0eQ"
+  },
+  {
+    "expression": "飾る",
+    "reading": "かざる",
+    "meaning": "to decorate, to adorn",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OaqvYHn98,"
+  },
+  {
+    "expression": "止める",
+    "reading": "とめる",
+    "meaning": "to stop (something)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uL2<QDM;W:"
+  },
+  {
+    "expression": "恥ずかしい",
+    "reading": "はずかしい",
+    "meaning": "ashamed, embarrassed",
+    "tags": [
+      "Genki",
+      "Genki_Ln.18",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e$Mth*I+Cg"
+  },
+  {
+    "expression": "いくら～ても",
+    "reading": "いくら～ても",
+    "meaning": "however much one may ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "I]og(vfh}t"
+  },
+  {
+    "expression": "用事",
+    "reading": "ようじ",
+    "meaning": "business to take care of; tasks; errands",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p$RznpfpCY"
+  },
+  {
+    "expression": "ビル",
+    "reading": "ビル",
+    "meaning": "(abbr.) building",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "H[!Yph0[mz"
+  },
+  {
+    "expression": "けんかする",
+    "reading": "けんかする",
+    "meaning": "quarrel",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Oc14`ELpiF"
+  },
+  {
+    "expression": "頑張る",
+    "reading": "がんばる",
+    "meaning": "to try one's best, to try hard, to persist",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Mz@9d9PizL"
+  },
+  {
+    "expression": "投げる",
+    "reading": "なげる",
+    "meaning": "to pitch, to cast away",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A%8%S+mN,O"
+  },
+  {
+    "expression": "故障",
+    "reading": "こしょうする",
+    "meaning": "breakdown",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mP~NCidGL7"
+  },
+  {
+    "expression": "力",
+    "reading": "ちから",
+    "meaning": "strength, power",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t<Fy!4ZXqc"
+  },
+  {
+    "expression": "受ける",
+    "reading": "うける",
+    "meaning": "to take (an examination, interview, etc.); to receive",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d#N;{6r~iD"
+  },
+  {
+    "expression": "気分",
+    "reading": "きぶん",
+    "meaning": "feeling, mood",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "GJl$1:;vCi"
+  },
+  {
+    "expression": "間違える",
+    "reading": "まちがえる",
+    "meaning": "to make a mistake",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q5b~VM7IRc"
+  },
+  {
+    "expression": "そんな",
+    "reading": "そんな",
+    "meaning": "such, like that, that sort of",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ei/O3MuiLE"
+  },
+  {
+    "expression": "星",
+    "reading": "ほし",
+    "meaning": "star",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h=LT];WutA"
+  },
+  {
+    "expression": "場合",
+    "reading": "ばあい",
+    "meaning": "case, situation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qV-2<HJ$$5"
+  },
+  {
+    "expression": "やっと",
+    "reading": "やっと",
+    "meaning": "at last, finally",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Qf-Nk|9F8D"
+  },
+  {
+    "expression": "足りる",
+    "reading": "たりる",
+    "meaning": "to be sufficient; to be enough",
+    "tags": [
+      "Genki",
+      "Genki_Ln.17",
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tSHDO2cb1M"
+  },
+  {
+    "expression": "行う",
+    "reading": "おこなう",
+    "meaning": "to carry out; to conduct (typically used in written language)",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kSwpIk>RTo"
+  },
+  {
+    "expression": "ぶどう",
+    "reading": "ぶどう",
+    "meaning": "grapes",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qtf+q-Z+n]"
+  },
+  {
+    "expression": "無くなる",
+    "reading": "なくなる",
+    "meaning": "to disappear, to get lost",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QEFsGzu!|/"
+  },
+  {
+    "expression": "準備",
+    "reading": "じゅんびする",
+    "meaning": "prepare",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h&P$N~U6-["
+  },
+  {
+    "expression": "世界",
+    "reading": "せかい",
+    "meaning": "world",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e<Tae_jQo4"
+  },
+  {
+    "expression": "住所",
+    "reading": "じゅうしょ",
+    "meaning": "address; place of residence",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fPoS$h^c(u"
+  },
+  {
+    "expression": "再来月",
+    "reading": "さらいげつ",
+    "meaning": "the month after next",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Zux^JW=t?"
+  },
+  {
+    "expression": "林",
+    "reading": "はやし",
+    "meaning": "woods, forest",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "@LWUXw-^>"
+  },
+  {
+    "expression": "倍",
+    "reading": "ばい",
+    "meaning": "double",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k.0mCWDs+|"
+  },
+  {
+    "expression": "痩せる",
+    "reading": "やせる",
+    "meaning": "to lose weight",
+    "tags": [
+      "Genki",
+      "Genki_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A[Q-]LV0S:"
+  },
+  {
+    "expression": "線",
+    "reading": "せん",
+    "meaning": "line, wire",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dK0yR1DBK`"
+  },
+  {
+    "expression": "戦争",
+    "reading": "せんそう",
+    "meaning": "war",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l@;Cq/&#91"
+  },
+  {
+    "expression": "決める",
+    "reading": "きめる",
+    "meaning": "to decide (v.t.)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p(qb/m`R:b"
+  },
+  {
+    "expression": "調べる",
+    "reading": "しらべる",
+    "meaning": "to check; to look up; to inquire; to search",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ov6y=mBwgM"
+  },
+  {
+    "expression": "寝坊",
+    "reading": "ねぼう",
+    "meaning": "sleeping in late",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "B(>pXN{@@q"
+  },
+  {
+    "expression": "パパ",
+    "reading": "パパ",
+    "meaning": "papa, daddy",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v.-(XP=XJY"
+  },
+  {
+    "expression": "光る",
+    "reading": "ひかる",
+    "meaning": "to shine, to glitter",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xp|/7BLK40"
+  },
+  {
+    "expression": "夫",
+    "reading": "おっと",
+    "meaning": "husband",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "zDF$wWIUs8"
+  },
+  {
+    "expression": "雲",
+    "reading": "くも",
+    "meaning": "cloud",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C3Z1{X<H,4"
+  },
+  {
+    "expression": "坂",
+    "reading": "さか",
+    "meaning": "slope, hill",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fMGrCf7XcB"
+  },
+  {
+    "expression": "～(て) しまう",
+    "reading": "～(て) しまう",
+    "meaning": "to end up ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "us+Z5ns><g"
+  },
+  {
+    "expression": "飛行場",
+    "reading": "ひこうじょう",
+    "meaning": "airport",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A2O=3b{hXI"
+  },
+  {
+    "expression": "柔道",
+    "reading": "じゅうどう",
+    "meaning": "judo",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d[2qz9jnc7"
+  },
+  {
+    "expression": "決して",
+    "reading": "けっして",
+    "meaning": "never",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Kd9N)Izj!4"
+  },
+  {
+    "expression": "事務所",
+    "reading": "じむしょ",
+    "meaning": "office",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wxgf%k:fc2"
+  },
+  {
+    "expression": "連絡",
+    "reading": "れんらく",
+    "meaning": "communication, contact, connection",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v[($g<|S,F"
+  },
+  {
+    "expression": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "elementary school",
+    "tags": [
+      "Genki",
+      "Genki_Ln.23",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "f^*MMB(l>o"
+  },
+  {
+    "expression": "客",
+    "reading": "きゃく",
+    "meaning": "guest, customer",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xF)V^}awc{"
+  },
+  {
+    "expression": "昔",
+    "reading": "むかし",
+    "meaning": "old days; past",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "hUjfJU~9){"
+  },
+  {
+    "expression": "美しい",
+    "reading": "うつくしい",
+    "meaning": "beautiful, lovely",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OB^[>@2T05"
+  },
+  {
+    "expression": "捨てる",
+    "reading": "すてる",
+    "meaning": "throw away (trash), dump, discard",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G;1IJzl`jC"
+  },
+  {
+    "expression": "なさる",
+    "reading": "なさる",
+    "meaning": "-- honorific expression for する --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "zj*av$=2pO"
+  },
+  {
+    "expression": "事",
+    "reading": "こと",
+    "meaning": "thing(s), matter(s), fact",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ca&G<Ve~Nx"
+  },
+  {
+    "expression": "どんどん",
+    "reading": "どんどん",
+    "meaning": "quickly and steadily; at a rapid pace",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q0h/etzyxE"
+  },
+  {
+    "expression": "試合",
+    "reading": "しあい",
+    "meaning": "match, game, competition",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Hv/PI<4cqa"
+  },
+  {
+    "expression": "適当",
+    "reading": "てきとう",
+    "meaning": "fitness, suitability",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "HX3el]3jvP"
+  },
+  {
+    "expression": "素晴らしい",
+    "reading": "すばらしい",
+    "meaning": "wonderful; terrific",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Mq|7Xt}rKi"
+  },
+  {
+    "expression": "美術館",
+    "reading": "びじゅつかん",
+    "meaning": "art gallery, art museum",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Lovq=LkX$G"
+  },
+  {
+    "expression": "文法",
+    "reading": "ぶんぽう",
+    "meaning": "grammar",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h2m8,%coR8"
+  },
+  {
+    "expression": "終わり",
+    "reading": "おわり",
+    "meaning": "end",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j1fvX?gG0M"
+  },
+  {
+    "expression": "壁",
+    "reading": "かべ",
+    "meaning": "wall",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "um!T&Q*O[?"
+  },
+  {
+    "expression": "一度",
+    "reading": "いちど",
+    "meaning": "once, one time",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z3&2cN)6^e"
+  },
+  {
+    "expression": "お礼",
+    "reading": "おれい",
+    "meaning": "expression of gratitude; thanking; gift of appreciation; bow",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "IzFCHK5nu1"
+  },
+  {
+    "expression": "親切",
+    "reading": "しんせつ",
+    "meaning": "kindness",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lZWRz?K3ET"
+  },
+  {
+    "expression": "知らせる",
+    "reading": "しらせる",
+    "meaning": "to notify",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mORr*vy|g/"
+  },
+  {
+    "expression": "歯医者",
+    "reading": "はいしゃ",
+    "meaning": "dentist",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "<G@n,w<8p"
+  },
+  {
+    "expression": "熱心",
+    "reading": "ねっしん",
+    "meaning": "enthusiasm",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bLrU`I|/*{"
+  },
+  {
+    "expression": "始める",
+    "reading": "はじめる",
+    "meaning": "to start, to begin",
+    "tags": [
+      "Genki",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g,>$G?*/Q&"
+  },
+  {
+    "expression": "もらう",
+    "reading": "もらう",
+    "meaning": "to receive",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "MhXS3i[O39"
+  },
+  {
+    "expression": "泣く",
+    "reading": "なく",
+    "meaning": "to cry",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wS:0`lVju$"
+  },
+  {
+    "expression": "治る",
+    "reading": "なおる",
+    "meaning": "to get better; to recover from illness (v.i.)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J-V8gKft=&"
+  },
+  {
+    "expression": "熱",
+    "reading": "ねつ",
+    "meaning": "fever, temperature",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D9dKTYQi:O"
+  },
+  {
+    "expression": "お祭り",
+    "reading": "おまつり",
+    "meaning": "festival",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "n=i-:`LzjX"
+  },
+  {
+    "expression": "水道",
+    "reading": "すいどう",
+    "meaning": "water service, water line",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "FV`Tc-%-nK"
+  },
+  {
+    "expression": "匂い",
+    "reading": "におい",
+    "meaning": "odor, smell",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P&q^w6d0fO"
+  },
+  {
+    "expression": "ベル",
+    "reading": "ベル",
+    "meaning": "bell",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D!1f]e)iSX"
+  },
+  {
+    "expression": "赤ん坊",
+    "reading": "あかんぼう",
+    "meaning": "baby",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "I>S)eTr_]B"
+  },
+  {
+    "expression": "おかしい",
+    "reading": "おかしい",
+    "meaning": "strange; odd; funny",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O9;m#]XEB2"
+  },
+  {
+    "expression": "事故",
+    "reading": "じこ",
+    "meaning": "accident",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K(yw!r=B:1"
+  },
+  {
+    "expression": "変",
+    "reading": "へん",
+    "meaning": "strange, odd",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e/SMd06F!x"
+  },
+  {
+    "expression": "辞典",
+    "reading": "じてん",
+    "meaning": "encyclopedia, reference book",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "brNC9/_sI`"
+  },
+  {
+    "expression": "残る",
+    "reading": "のこる",
+    "meaning": "to remain (v.i.), to be left",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "INR^BBo=#J"
+  },
+  {
+    "expression": "立てる",
+    "reading": "たてる",
+    "meaning": "to stand (something) up, to erect (something)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O9fk.~k_.E"
+  },
+  {
+    "expression": "くれる",
+    "reading": "くれる",
+    "meaning": "to give, to do for",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "hSC5|:)aVz"
+  },
+  {
+    "expression": "～員",
+    "reading": "～いん",
+    "meaning": "member of ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QHO%z16SSs"
+  },
+  {
+    "expression": "原因",
+    "reading": "げんいん",
+    "meaning": "cause, origin, source",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y8<@Y+?o6j"
+  },
+  {
+    "expression": "驚く",
+    "reading": "おどろく",
+    "meaning": "to be surprised, to be astonished",
+    "tags": [
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qBeaklesW+"
+  },
+  {
+    "expression": "いただく",
+    "reading": "頂く",
+    "meaning": "-- extra-modest expression for たべる and のむ; humble expression for もらう --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J*KGnzk|Z2"
+  },
+  {
+    "expression": "祖母",
+    "reading": "そぼ",
+    "meaning": "grandmother",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "x!LCLRW]y2"
+  },
+  {
+    "expression": "場所",
+    "reading": "ばしょ",
+    "meaning": "place, location",
+    "tags": [
+      "Genki",
+      "Genki_Ln.23",
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qw3.O}/lOC"
+  },
+  {
+    "expression": "答",
+    "reading": "こたえ",
+    "meaning": "answer, response",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xmTYLgV-T_"
+  },
+  {
+    "expression": "もちろん",
+    "reading": "もちろん",
+    "meaning": "certainly, of course",
+    "tags": [
+      "Genki",
+      "Genki_Ln.7",
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m8,NutV2dG"
+  },
+  {
+    "expression": "漬ける",
+    "reading": "つける",
+    "meaning": "to soak, to moisten, to pickle",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h!i?H{d*F@"
+  },
+  {
+    "expression": "受付",
+    "reading": "うけつけ",
+    "meaning": "reception(ist) desk",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uraaf1,;7Q"
+  },
+  {
+    "expression": "内",
+    "reading": "うち",
+    "meaning": "within, inside",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G1H0$T!7Vl"
+  },
+  {
+    "expression": "スクリーン",
+    "reading": "スクリーン",
+    "meaning": "screen",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "L/njBN,iH6"
+  },
+  {
+    "expression": "増える",
+    "reading": "ふえる",
+    "meaning": "to increase, to multiply",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QW.w#0qn}8"
+  },
+  {
+    "expression": "または",
+    "reading": "または",
+    "meaning": "or, otherwise",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J-^^Uw<Tl~"
+  },
+  {
+    "expression": "けがする",
+    "reading": "けがする",
+    "meaning": "injury (to animate object), hurt",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "NP:|wpXW(M"
+  },
+  {
+    "expression": "以下",
+    "reading": "いか",
+    "meaning": "less than, below",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DS5y_+4p`Y"
+  },
+  {
+    "expression": "選ぶ",
+    "reading": "えらぶ",
+    "meaning": "to choose; to select",
+    "tags": [
+      "Genki",
+      "Genki_Ln.17",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Jo*`4U5e.W"
+  },
+  {
+    "expression": "～ばかり",
+    "reading": "～ばかり",
+    "meaning": "just did ~, only",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vbW68h-IIc"
+  },
+  {
+    "expression": "心",
+    "reading": "こころ",
+    "meaning": "heart, mind",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Fkhe%Dz2nb"
+  },
+  {
+    "expression": "～だす",
+    "reading": "～だす",
+    "meaning": "to start doing ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "B+=k~owmr!"
+  },
+  {
+    "expression": "サラダ",
+    "reading": "サラダ",
+    "meaning": "salad",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J3A=]P#ec<"
+  },
+  {
+    "expression": "届ける",
+    "reading": "とどける",
+    "meaning": "to deliver (v.t.)",
+    "tags": [
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tA&cXA55C="
+  },
+  {
+    "expression": "挨拶",
+    "reading": "あいさつする",
+    "meaning": "greet(ing)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h|NjvFq!b]"
+  },
+  {
+    "expression": "景色",
+    "reading": "けしき",
+    "meaning": "scenery, landscape",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Cd#u9/v:Pu"
+  },
+  {
+    "expression": "確か",
+    "reading": "たしか",
+    "meaning": "if I remember correctly; certain, definite",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v&7%T>e{{z"
+  },
+  {
+    "expression": "ステーキ",
+    "reading": "ステーキ",
+    "meaning": "steak",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K0B$/YQ?Op"
+  },
+  {
+    "expression": "食料品",
+    "reading": "しょくりょうひん",
+    "meaning": "foodstuff, groceries",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kg/Pg!K6&w"
+  },
+  {
+    "expression": "森",
+    "reading": "もり",
+    "meaning": "forest",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mJkKf?UAUT"
+  },
+  {
+    "expression": "以内",
+    "reading": "いない",
+    "meaning": "within, less (no more) than",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EyK>c0C[$K"
+  },
+  {
+    "expression": "予定",
+    "reading": "よてい",
+    "meaning": "plans, arrangement, schedule",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "Intermediate_Japanese_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "I$<#IwHCvW"
+  },
+  {
+    "expression": "オーバー",
+    "reading": "オーバー",
+    "meaning": "overcoat; over, exceeding, exaggeration",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "umd4AX=/RI"
+  },
+  {
+    "expression": "乾く",
+    "reading": "かわく",
+    "meaning": "to get dry",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s+Ju<mmF]C"
+  },
+  {
+    "expression": "石",
+    "reading": "いし",
+    "meaning": "stone",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gg2=(OnQKh"
+  },
+  {
+    "expression": "思い出す",
+    "reading": "おもいだす",
+    "meaning": "to recall, to remember",
+    "tags": [
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O?8pX)Ooz*"
+  },
+  {
+    "expression": "踊る",
+    "reading": "おどる",
+    "meaning": "to dance",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LnHUFv$!`;"
+  },
+  {
+    "expression": "細かい",
+    "reading": "こまかい",
+    "meaning": "small; fine, minute",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PrWma5VeE["
+  },
+  {
+    "expression": "塗る",
+    "reading": "ぬる",
+    "meaning": "to paint, to plaster",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gb*{+)EK`F"
+  },
+  {
+    "expression": "ご主人",
+    "reading": "ごしゅじん",
+    "meaning": "(your, her) husband",
+    "tags": [
+      "Genki",
+      "Genki_Ln.14",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Gb,y/-3SAS"
+  },
+  {
+    "expression": "珍しい",
+    "reading": "めずらしい",
+    "meaning": "unusual, rare",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LG3n^a@XAC"
+  },
+  {
+    "expression": "用",
+    "reading": "よう",
+    "meaning": "errand, task, business (to take care of)",
+    "tags": [
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "CvxvGX`|/>"
+  },
+  {
+    "expression": "公務員",
+    "reading": "こうむいん",
+    "meaning": "government worker, public servant",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p;42%b%y:T"
+  },
+  {
+    "expression": "お嬢さん",
+    "reading": "おじょうさん",
+    "meaning": "(someone's) daughter (polite)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ee+d{e?WRj"
+  },
+  {
+    "expression": "用意",
+    "reading": "ようい",
+    "meaning": "preparation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PJ%Q,E{$_L"
+  },
+  {
+    "expression": "探す",
+    "reading": "さがす",
+    "meaning": "to search, to seek, to look for",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h4(YO`o85t"
+  },
+  {
+    "expression": "形",
+    "reading": "かたち",
+    "meaning": "shape",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "f7_i%J0-/Y"
+  },
+  {
+    "expression": "運転",
+    "reading": "うんてんする",
+    "meaning": "driving",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r!zv#R0ur*"
+  },
+  {
+    "expression": "すっかり",
+    "reading": "すっかり",
+    "meaning": "all, completely",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "nV=]]BK.9="
+  },
+  {
+    "expression": "アナウンサー",
+    "reading": "アナウンサー",
+    "meaning": "announcer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oG?shn0:uO"
+  },
+  {
+    "expression": "お土産",
+    "reading": "おみやげ",
+    "meaning": "souvenir",
+    "tags": [
+      "Genki",
+      "Genki_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "IKS:}hgF8q"
+  },
+  {
+    "expression": "消しゴム",
+    "reading": "けしゴム",
+    "meaning": "eraser",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gW^biR[nM,"
+  },
+  {
+    "expression": "旅館",
+    "reading": "りょかん",
+    "meaning": "a Japanese inn",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ke`aN1|5T#"
+  },
+  {
+    "expression": "海岸",
+    "reading": "かいがん",
+    "meaning": "coast, seashore",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O1]Ne=Q0*."
+  },
+  {
+    "expression": "寂しい",
+    "reading": "さびしい",
+    "meaning": "lonely, lonesome",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pi{)YOFX|t"
+  },
+  {
+    "expression": "火",
+    "reading": "ひ",
+    "meaning": "fire",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gjC}:7>!AJ"
+  },
+  {
+    "expression": "育てる",
+    "reading": "そだてる",
+    "meaning": "to raise (v.t.); to bring up",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r6b~+z#uh_"
+  },
+  {
+    "expression": "味噌",
+    "reading": "みそ",
+    "meaning": "miso, bean paste",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "FzA7odIzvp"
+  },
+  {
+    "expression": "お祝い",
+    "reading": "おいわい",
+    "meaning": "congratulation, celebration",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sQaWTq!hP`"
+  },
+  {
+    "expression": "乗り物",
+    "reading": "のりもの",
+    "meaning": "vehicle",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i9[ZI9WM}X"
+  },
+  {
+    "expression": "案内",
+    "reading": "あんないする",
+    "meaning": "information, guidance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DO_nJ<yYaJ"
+  },
+  {
+    "expression": "通う",
+    "reading": "かよう",
+    "meaning": "to go back and forth; to commute",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D<g$_r(YBs"
+  },
+  {
+    "expression": "連れる",
+    "reading": "つれる",
+    "meaning": "to lead, to take (a person)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J&sg+H>0p_"
+  },
+  {
+    "expression": "技術",
+    "reading": "ぎじゅつ",
+    "meaning": "technique, technology, skill",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PCC!&zGiCY"
+  },
+  {
+    "expression": "小鳥",
+    "reading": "ことり",
+    "meaning": "small bird",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G|$muceS&O"
+  },
+  {
+    "expression": "下宿",
+    "reading": "げしゅく",
+    "meaning": "lodging, boarding house",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bmjB!,8T=p"
+  },
+  {
+    "expression": "ジャム",
+    "reading": "ジャム",
+    "meaning": "jam",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D@h7*f7p?d"
+  },
+  {
+    "expression": "招待",
+    "reading": "しょうたいする",
+    "meaning": "invitation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c$Y~;QF){;"
+  },
+  {
+    "expression": "鏡",
+    "reading": "かがみ",
+    "meaning": "mirror",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v%J5x[E:;("
+  },
+  {
+    "expression": "はず",
+    "reading": "はず",
+    "meaning": "it should be so",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Jg5{R&fxyH"
+  },
+  {
+    "expression": "法律",
+    "reading": "ほうりつ",
+    "meaning": "law",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O9|FD5Fq3."
+  },
+  {
+    "expression": "進む",
+    "reading": "すすむ",
+    "meaning": "to advance, to proceed",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b6Re}g0};8"
+  },
+  {
+    "expression": "楽む",
+    "reading": "たのしむ",
+    "meaning": "to enjoy",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iCe:{Xn-6L"
+  },
+  {
+    "expression": "貿易",
+    "reading": "ぼうえき",
+    "meaning": "trade",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bc9Yp10YbE"
+  },
+  {
+    "expression": "反対",
+    "reading": "はんたい",
+    "meaning": "oppose, opposition, resistance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KY]P)[osSM"
+  },
+  {
+    "expression": "おる",
+    "reading": "おる",
+    "meaning": "-- extra-modest expression for いる --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Adc_Jds{te"
+  },
+  {
+    "expression": "申す",
+    "reading": "もうす",
+    "meaning": "-- extra-modest (humble) expression for 言う (いう) --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e<WJ-6`NVb"
+  },
+  {
+    "expression": "試験",
+    "reading": "しけん",
+    "meaning": "an exam",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bUCd_5rR^-"
+  },
+  {
+    "expression": "真面目",
+    "reading": "まじめ",
+    "meaning": "diligent, serious",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xK*F{fx?.z"
+  },
+  {
+    "expression": "ごらんになる",
+    "reading": "",
+    "meaning": "-- honorific expression for みる --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k(j]!OR1gM"
+  },
+  {
+    "expression": "店員",
+    "reading": "てんいん",
+    "meaning": "clerk; shop-employee",
+    "tags": [
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "GeFU%up;F{"
+  },
+  {
+    "expression": "泊まる",
+    "reading": "とまる",
+    "meaning": "to stay (over night) (v.i.)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "IbHq#Ubd>&"
+  },
+  {
+    "expression": "よろしい",
+    "reading": "よろしい",
+    "meaning": "(hon.) good, OK, all right",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ah<}g#ysAC"
+  },
+  {
+    "expression": "今夜",
+    "reading": "こんや",
+    "meaning": "this evening, tonight",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qWO]e*;%U}"
+  },
+  {
+    "expression": "おつり",
+    "reading": "おつり",
+    "meaning": "change; balance of money returned to the purchaser",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wx#vXTnj!Z"
+  },
+  {
+    "expression": "チェックする",
+    "reading": "チェックする",
+    "meaning": "check",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "o%*Ndg~YHB"
+  },
+  {
+    "expression": "会話",
+    "reading": "かいわ",
+    "meaning": "conversation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dD;CvmzQ9b"
+  },
+  {
+    "expression": "空気",
+    "reading": "くうき",
+    "meaning": "air, atmosphere",
+    "tags": [
+      "Genki",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C)1Z!^eB^|"
+  },
+  {
+    "expression": "交通",
+    "reading": "こうつう",
+    "meaning": "traffic, transportation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "AyJ>}k*DyK"
+  },
+  {
+    "expression": "ワープロ",
+    "reading": "ワープロ",
+    "meaning": "word processor",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "!Qc[fI`%{"
+  },
+  {
+    "expression": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "to rejoice, to be delighted, to be glad",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DF7Py?yTD["
+  },
+  {
+    "expression": "急行",
+    "reading": "きゅうこう",
+    "meaning": "express train or bus",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t]K/5%].:3"
+  },
+  {
+    "expression": "皆",
+    "reading": "みな",
+    "meaning": "everyone",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r56e/uzKVH"
+  },
+  {
+    "expression": "味",
+    "reading": "あじ",
+    "meaning": "flavor, taste",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "B]?q9zUNzO"
+  },
+  {
+    "expression": "空港",
+    "reading": "くうこう",
+    "meaning": "airport",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Qgx/]mMiIj"
+  },
+  {
+    "expression": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "glove(s)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LM6P1@!I~2"
+  },
+  {
+    "expression": "校長",
+    "reading": "こうちょう",
+    "meaning": "principal, headmaster",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "eI/Ghjq;7/"
+  },
+  {
+    "expression": "ごちそう",
+    "reading": "ごちそう",
+    "meaning": "feast, treating (someone)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D/ibPniDYT"
+  },
+  {
+    "expression": "踊り",
+    "reading": "おどり",
+    "meaning": "dance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J=*Z|>n+QR"
+  },
+  {
+    "expression": "興味",
+    "reading": "きょうみ",
+    "meaning": "interest (in something)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DIyl0xA#)2"
+  },
+  {
+    "expression": "引っ越す",
+    "reading": "ひっこす",
+    "meaning": "to move to a new place of residence",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EGeSfwOFZ."
+  },
+  {
+    "expression": "冷房",
+    "reading": "れいぼう",
+    "meaning": "cooling, air conditioning",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "stZHJs{qvP"
+  },
+  {
+    "expression": "都合",
+    "reading": "つごう",
+    "meaning": "circumstances, convenience",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b;szYJp1~0"
+  },
+  {
+    "expression": "遠慮",
+    "reading": "えんりょする",
+    "meaning": "restraint, reserve, hesitate",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uqPUmCD*1n"
+  },
+  {
+    "expression": "亡くなる",
+    "reading": "なくなる",
+    "meaning": "to pass away",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Iq_q:mI=}n"
+  },
+  {
+    "expression": "科学",
+    "reading": "かがく",
+    "meaning": "science",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gWOi-(wW;M"
+  },
+  {
+    "expression": "はっきり",
+    "reading": "はっきり",
+    "meaning": "clearly, distinctly",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "soMm6B)m]t"
+  },
+  {
+    "expression": "差し上げる",
+    "reading": "さしあげる",
+    "meaning": "-- humble expression for あげる --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "zkSrvJWm{I"
+  },
+  {
+    "expression": "気持ち",
+    "reading": "きもち",
+    "meaning": "feeling, sensation, mood",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P!ajdoiyb."
+  },
+  {
+    "expression": "祖父",
+    "reading": "そふ",
+    "meaning": "grandfather",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ytyAfRG*6x"
+  },
+  {
+    "expression": "港",
+    "reading": "みなと",
+    "meaning": "harbor, port",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sHl5)cnUcM"
+  },
+  {
+    "expression": "予約",
+    "reading": "よやく",
+    "meaning": "reservation",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rSce1JPbkI"
+  },
+  {
+    "expression": "凄い",
+    "reading": "すごい",
+    "meaning": "terrific, great",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P~)7jIfH{m"
+  },
+  {
+    "expression": "入学",
+    "reading": "にゅうがくする",
+    "meaning": "entry to school or university",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "jo:/>1,9uU"
+  },
+  {
+    "expression": "片付ける",
+    "reading": "かたづける",
+    "meaning": "to (clean) tidy up (v.t.), to put away",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ef_Twp5ERS"
+  },
+  {
+    "expression": "写す",
+    "reading": "うつす",
+    "meaning": "to copy (v.t.); to photograph",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "x|L%TU)*iv"
+  },
+  {
+    "expression": "パソコン",
+    "reading": "パソコン",
+    "meaning": "(personal) computer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tQ#JE!pNrV"
+  },
+  {
+    "expression": "部長",
+    "reading": "ぶちょう",
+    "meaning": "department (division) manager",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "Intermediate_Japanese_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O:v<m}n3*n"
+  },
+  {
+    "expression": "火事",
+    "reading": "かじ",
+    "meaning": "fire",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Kll.Pvc/gB"
+  },
+  {
+    "expression": "足す",
+    "reading": "たす",
+    "meaning": "to add (numbers)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "M:pOTP>t7-"
+  },
+  {
+    "expression": "教会",
+    "reading": "きょうかい",
+    "meaning": "church",
+    "tags": [
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oA&[8r+GKm"
+  },
+  {
+    "expression": "彼ら",
+    "reading": "かれら",
+    "meaning": "they (usually male)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k?K1].&L.0"
+  },
+  {
+    "expression": "一杯",
+    "reading": "いっぱい",
+    "meaning": "full, to the utmost",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w&/o{@M=$:"
+  },
+  {
+    "expression": "アメリカ",
+    "reading": "アメリカ",
+    "meaning": "America, U.S.A.",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "Genki_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "IVipO?aKE#"
+  },
+  {
+    "expression": "男性",
+    "reading": "だんせい",
+    "meaning": "man; male",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r6Y+#Vxx9S"
+  },
+  {
+    "expression": "理由",
+    "reading": "りゆう",
+    "meaning": "reason",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P7}t{e2du#"
+  },
+  {
+    "expression": "生産",
+    "reading": "せいさんする",
+    "meaning": "production; to produce",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pm+O;C4U:>"
+  },
+  {
+    "expression": "着物",
+    "reading": "きもの",
+    "meaning": "kimono; Japanese traditional dress",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A(ZdyF5k,T"
+  },
+  {
+    "expression": "おもちゃ",
+    "reading": "おもちゃ",
+    "meaning": "a toy",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Cf`[JaXL7u"
+  },
+  {
+    "expression": "暮れる",
+    "reading": "くれる",
+    "meaning": "to get dark, to come to an end",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i-JL+Sl!mg"
+  },
+  {
+    "expression": "釣る",
+    "reading": "つる",
+    "meaning": "to fish",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "GWJ%g`TG,o"
+  },
+  {
+    "expression": "～ちゃん",
+    "reading": "～ちゃん",
+    "meaning": "suffix for familiar (female) person",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r2m3z~%1s]"
+  },
+  {
+    "expression": "打つ",
+    "reading": "うつ",
+    "meaning": "to hit, to strike",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pBs^gx/@>a"
+  },
+  {
+    "expression": "あんな",
+    "reading": "あんな",
+    "meaning": "such, like that",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K%g**4JE#C"
+  },
+  {
+    "expression": "謝る",
+    "reading": "あやまる",
+    "meaning": "to apologize",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C%+Y^2-4l["
+  },
+  {
+    "expression": "昼間",
+    "reading": "ひるま",
+    "meaning": "daytime, during the day",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p3^ge-^eJl"
+  },
+  {
+    "expression": "教育",
+    "reading": "きょういく",
+    "meaning": "education",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "HW9*4`esHu"
+  },
+  {
+    "expression": "女性",
+    "reading": "じょせい",
+    "meaning": "woman",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E9gO2XIg*K"
+  },
+  {
+    "expression": "米",
+    "reading": "こめ",
+    "meaning": "uncooked rice",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t,HSQDh#2"
+  },
+  {
+    "expression": "邪魔",
+    "reading": "じゃま",
+    "meaning": "hindrance, intrusion",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c]>yivA`ny"
+  },
+  {
+    "expression": "国際",
+    "reading": "こくさい",
+    "meaning": "international",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "f~g3tMo97^"
+  },
+  {
+    "expression": "隅",
+    "reading": "すみ",
+    "meaning": "corner",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "eeOvjZ5zl."
+  },
+  {
+    "expression": "伺う",
+    "reading": "うかがう",
+    "meaning": "humble form of 行く (いく), 聞く (きく) and 来る (くる)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Lmfy{2F]$A"
+  },
+  {
+    "expression": "再来週",
+    "reading": "さらいしゅう",
+    "meaning": "the week after next",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kKHM?VM`7o"
+  },
+  {
+    "expression": "夢",
+    "reading": "ゆめ",
+    "meaning": "a dream",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lZn7[}J9+0"
+  },
+  {
+    "expression": "喉",
+    "reading": "のど",
+    "meaning": "throat",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c+C3t7I~.8"
+  },
+  {
+    "expression": "最近",
+    "reading": "さいきん",
+    "meaning": "recently, nowadays, in recent years, most recent, latest",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "Intermediate_Japanese_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e2RD]Myt9A"
+  },
+  {
+    "expression": "周り",
+    "reading": "まわり",
+    "meaning": "surroundings",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fhT%f*K[Vx"
+  },
+  {
+    "expression": "歴史",
+    "reading": "れきし",
+    "meaning": "history",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "Genki_Ln.2",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lQ}Sxv&`A!"
+  },
+  {
+    "expression": "不便",
+    "reading": "ふべん",
+    "meaning": "inconvenience",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C!<M[IO(?_"
+  },
+  {
+    "expression": "血",
+    "reading": "ち",
+    "meaning": "blood",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "0ihaC]*Q^"
+  },
+  {
+    "expression": "～続ける",
+    "reading": "～つづける",
+    "meaning": "to continue doing ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JHO_m/Gf)j"
+  },
+  {
+    "expression": "毛",
+    "reading": "け",
+    "meaning": "hair, fur",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gsy(C|!IEU"
+  },
+  {
+    "expression": "ひどい",
+    "reading": "ひどい",
+    "meaning": "terrible, awful, unfair, cruel",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "M6<?LBefmj"
+  },
+  {
+    "expression": "例えば",
+    "reading": "たとえば",
+    "meaning": "for example, e.g.",
+    "tags": [
+      "Genki",
+      "Genki_Ln.17",
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "n/o*9@bFx6"
+  },
+  {
+    "expression": "中々",
+    "reading": "なかなか",
+    "meaning": "very, considerably, quite",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "@YWCVJq=)"
+  },
+  {
+    "expression": "随分",
+    "reading": "ずいぶん",
+    "meaning": "extremely",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "NMl:D%#1zF"
+  },
+  {
+    "expression": "～やすい",
+    "reading": "～やすい",
+    "meaning": "easy to do ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "exjp1w(~N7"
+  },
+  {
+    "expression": "押し入れ",
+    "reading": "おしいれ",
+    "meaning": "closet",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Al&#S)GWr$"
+  },
+  {
+    "expression": "電灯",
+    "reading": "でんとう",
+    "meaning": "electric light",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "jodPP9K~W{"
+  },
+  {
+    "expression": "叱る",
+    "reading": "しかる",
+    "meaning": "to scold",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LMzmk?%TI!"
+  },
+  {
+    "expression": "サンダル",
+    "reading": "サンダル",
+    "meaning": "sandal",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "nKx7m0Vnj8"
+  },
+  {
+    "expression": "びっくりする",
+    "reading": "びっくりする",
+    "meaning": "to be surprised",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Cr@7!m+n{m"
+  },
+  {
+    "expression": "うまい",
+    "reading": "うまい",
+    "meaning": "delicious; skillful; fortunate",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C`4~Q!,KRn"
+  },
+  {
+    "expression": "変える",
+    "reading": "かえる",
+    "meaning": "to change, to alter, to vary",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "x+80xLQg^-"
+  },
+  {
+    "expression": "講堂",
+    "reading": "こうどう",
+    "meaning": "auditorium",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ktg9A%:iyA"
+  },
+  {
+    "expression": "子",
+    "reading": "こ",
+    "meaning": "child",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "u.wVLBCC7["
+  },
+  {
+    "expression": "沸かす",
+    "reading": "わかす",
+    "meaning": "to boil",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d,.x::f0>g"
+  },
+  {
+    "expression": "レジ",
+    "reading": "レジ",
+    "meaning": "register",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m?VOxpy?_K"
+  },
+  {
+    "expression": "しばらく",
+    "reading": "しばらく",
+    "meaning": "little while",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w1JlkP{0C8"
+  },
+  {
+    "expression": "特に",
+    "reading": "とくに",
+    "meaning": "particularly",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Qf=L0@hP&F"
+  },
+  {
+    "expression": "空く",
+    "reading": "あく",
+    "meaning": "to open, to become empty (vacant)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Cg0$u|Ogik"
+  },
+  {
+    "expression": "計画",
+    "reading": "けいかくする",
+    "meaning": "plan, project, schedule",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s2fE.u9}xk"
+  },
+  {
+    "expression": "通り",
+    "reading": "とおり",
+    "meaning": "~ Street, ~ Avenue",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QBI<)8t#SN"
+  },
+  {
+    "expression": "下着",
+    "reading": "したぎ",
+    "meaning": "underwear",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tFl(JKOvJ3"
+  },
+  {
+    "expression": "経済",
+    "reading": "けいざい",
+    "meaning": "economics, finance, economy",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rJHgD<t_i_"
+  },
+  {
+    "expression": "こう",
+    "reading": "こう",
+    "meaning": "like this, this way",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q%+*%s6}J9"
+  },
+  {
+    "expression": "是非",
+    "reading": "ぜひ",
+    "meaning": "certainly, by all means; without fail",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "Intermediate_Japanese_Ln.15",
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kray(3KD^X"
+  },
+  {
+    "expression": "裏",
+    "reading": "うら",
+    "meaning": "reverse side, back",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pQ2heE~587"
+  },
+  {
+    "expression": "為",
+    "reading": "ため",
+    "meaning": "good, advantage, in order to",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Fly+C7B(R*"
+  },
+  {
+    "expression": "おいでになる",
+    "reading": "おいでになる",
+    "meaning": "(hon.) to be",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ok-j:Fq]#X"
+  },
+  {
+    "expression": "変わる",
+    "reading": "かわる",
+    "meaning": "to change (v.i.), to be transformed, to vary",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "N?)pR_`l)L"
+  },
+  {
+    "expression": "以外",
+    "reading": "いがい",
+    "meaning": "other than, with the exception of, excepting",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "io5npAJ^ZJ"
+  },
+  {
+    "expression": "済む",
+    "reading": "すむ",
+    "meaning": "to finish, to end",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "eQV4%/qxB)"
+  },
+  {
+    "expression": "ハンバーグ",
+    "reading": "ハンバーグ",
+    "meaning": "hamburger steak",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "zs3r)kO4N*"
+  },
+  {
+    "expression": "市",
+    "reading": "し",
+    "meaning": "city",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rXed<x$qC("
+  },
+  {
+    "expression": "引き出し",
+    "reading": "ひきだし",
+    "meaning": "drawer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tGG+yHdqmL"
+  },
+  {
+    "expression": "遊び",
+    "reading": "あそび",
+    "meaning": "play",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O8zue,3OP7"
+  },
+  {
+    "expression": "支度",
+    "reading": "したくする",
+    "meaning": "preparation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "QsqU&|{INc"
+  },
+  {
+    "expression": "～始める",
+    "reading": "～はじめる",
+    "meaning": "to start doing ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "BA.Jz]NK1."
+  },
+  {
+    "expression": "見える",
+    "reading": "みえる",
+    "meaning": "to be visible; -- polite verb meaning 来る (くる) --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "cEonZn&vE$"
+  },
+  {
+    "expression": "十分",
+    "reading": "じゅうぶん",
+    "meaning": "enough",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vgB;={Nvrv"
+  },
+  {
+    "expression": "音",
+    "reading": "おと",
+    "meaning": "sound, note",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y~nFfa-~?d"
+  },
+  {
+    "expression": "きっと",
+    "reading": "きっと",
+    "meaning": "surely, definitely, undoubtedly, certainly",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": ">[X6H]9HU"
+  },
+  {
+    "expression": "まず",
+    "reading": "まず",
+    "meaning": "first (of all), to start with",
+    "tags": [
+      "Genki",
+      "Genki_Ln.18",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b.U+m9N1DV"
+  },
+  {
+    "expression": "遠く",
+    "reading": "とおく",
+    "meaning": "far away, distant",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P.EKUt5=[B"
+  },
+  {
+    "expression": "大体",
+    "reading": "だいたい",
+    "meaning": "approximately; in most cases; in general; to begin with (same as もともと)",
+    "tags": [
+      "Intermediate_Japanese_Ln.15",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PoQwq(:pGi"
+  },
+  {
+    "expression": "折れる",
+    "reading": "おれる",
+    "meaning": "to break, to be folded, to give in; to turn (a corner)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C>N,+q5aTm"
+  },
+  {
+    "expression": "正しい",
+    "reading": "ただしい",
+    "meaning": "correct",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ynVxN8fR|I"
+  },
+  {
+    "expression": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "import",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c#?sbZfFpt"
+  },
+  {
+    "expression": "返事",
+    "reading": "へんじ",
+    "meaning": "reply, answer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KqUGjMWU_#"
+  },
+  {
+    "expression": "都",
+    "reading": "と",
+    "meaning": "metropolitan",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OcM{?!kX-7"
+  },
+  {
+    "expression": "産業",
+    "reading": "さんぎょう",
+    "meaning": "industry",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r<I`MSX5aQ"
+  },
+  {
+    "expression": "伝える",
+    "reading": "つたえる",
+    "meaning": "to convey (a message); to tell, to report",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "Intermediate_Japanese_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z>dT,I0S3h"
+  },
+  {
+    "expression": "お金持ち",
+    "reading": "かねもち; おかねもち",
+    "meaning": "rich person",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "H?Z`hWb&65"
+  },
+  {
+    "expression": "説明",
+    "reading": "せつめい",
+    "meaning": "explanation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "jzx*<D-6cG"
+  },
+  {
+    "expression": "島",
+    "reading": "しま",
+    "meaning": "island",
+    "tags": [
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "AOZjwUDN5g"
+  },
+  {
+    "expression": "道具",
+    "reading": "どうぐ",
+    "meaning": "tool",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Me$$/AnEcv"
+  },
+  {
+    "expression": "滑る",
+    "reading": "すべる",
+    "meaning": "to slide, to slip",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "nobw)6B/(-"
+  },
+  {
+    "expression": "それほど",
+    "reading": "それほど",
+    "meaning": "to that degree; extent",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tq|Owona;B"
+  },
+  {
+    "expression": "以上",
+    "reading": "いじょう",
+    "meaning": "more than; this is all",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kbfzlR:5u>"
+  },
+  {
+    "expression": "～まま",
+    "reading": "～まま",
+    "meaning": "as it is",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j#zKPMXsT3"
+  },
+  {
+    "expression": "特急",
+    "reading": "とっきゅう",
+    "meaning": "limited express (train faster than an express)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sOgOxrQFHN"
+  },
+  {
+    "expression": "プレゼント",
+    "reading": "プレゼント",
+    "meaning": "present, gift",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "FrsjD-2$(X"
+  },
+  {
+    "expression": "～(に) よると",
+    "reading": "～(に) よると",
+    "meaning": "according to ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "erz+S2{yL|"
+  },
+  {
+    "expression": "妻",
+    "reading": "つま",
+    "meaning": "wife (humble)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pfL{;:Bm<O"
+  },
+  {
+    "expression": "帰り",
+    "reading": "かえり",
+    "meaning": "return, coming back",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A1{^9x(Ly$"
+  },
+  {
+    "expression": "具合",
+    "reading": "ぐあい",
+    "meaning": "condition, state, health",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Ha+Fpz*nIy"
+  },
+  {
+    "expression": "堅; 硬; 固い",
+    "reading": "かたい",
+    "meaning": "solid, hard, firm",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Qr]]OTGag7"
+  },
+  {
+    "expression": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "meaning": "parking lot",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q9!i44Gj}q"
+  },
+  {
+    "expression": "スーツ",
+    "reading": "スーツ",
+    "meaning": "suit",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "M~,%txA#EO"
+  },
+  {
+    "expression": "危険",
+    "reading": "きけん",
+    "meaning": "danger, risk, hazard",
+    "tags": [
+      "Intermediate_Japanese_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "f#x=KD-)bk"
+  },
+  {
+    "expression": "髪",
+    "reading": "かみ",
+    "meaning": "hair",
+    "tags": [
+      "Genki",
+      "Genki_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "roFwJrlfKR"
+  },
+  {
+    "expression": "天気予報",
+    "reading": "てんきよほう",
+    "meaning": "weather forecast",
+    "tags": [
+      "Genki",
+      "Genki_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rN#1gCRiI^"
+  },
+  {
+    "expression": "彼女",
+    "reading": "かのじょ",
+    "meaning": "girlfriend; she",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xL3J@WlS{%"
+  },
+  {
+    "expression": "間",
+    "reading": "あいだ",
+    "meaning": "space, interval",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "MXEynMn6*x"
+  },
+  {
+    "expression": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "graduation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "yOSz]L8FJS"
+  },
+  {
+    "expression": "それで",
+    "reading": "それで",
+    "meaning": "and (conj.), thereupon, because of that",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rZ[:sRogcN"
+  },
+  {
+    "expression": "枝",
+    "reading": "えだ",
+    "meaning": "branch, twig",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "FAl}KCf:~8"
+  },
+  {
+    "expression": "専門",
+    "reading": "せんもん",
+    "meaning": "major; speciality",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k;2({qLOGz"
+  },
+  {
+    "expression": "そろそろ",
+    "reading": "そろそろ",
+    "meaning": "gradually, soon",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q|>K44^N++"
+  },
+  {
+    "expression": "送る",
+    "reading": "おくる",
+    "meaning": "to send, to dispatch",
+    "tags": [
+      "Genki",
+      "Genki_Ln.14",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "e1#_xMS<)@"
+  },
+  {
+    "expression": "あげる",
+    "reading": "あげる",
+    "meaning": "to give",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w6NP$s|k?>"
+  },
+  {
+    "expression": "騒ぐ",
+    "reading": "さわぐ",
+    "meaning": "to make noise, to clamor",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E-jyAQ+?xZ"
+  },
+  {
+    "expression": "尋ねる",
+    "reading": "たずねる",
+    "meaning": "to inquire (same as 質問する)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "B;}vj%?W%Z"
+  },
+  {
+    "expression": "放送",
+    "reading": "ほうそうする",
+    "meaning": "broadcasting",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "HT(fAub[.Z"
+  },
+  {
+    "expression": "政治",
+    "reading": "せいじ",
+    "meaning": "politics",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "Genki_Ln.12",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LbbPDli%;("
+  },
+  {
+    "expression": "市民",
+    "reading": "しみん",
+    "meaning": "citizen",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KnKdz8[G7<"
+  },
+  {
+    "expression": "ファックス",
+    "reading": "ファックス",
+    "meaning": "fax",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sG]9/N[j*>"
+  },
+  {
+    "expression": "負ける",
+    "reading": "まける",
+    "meaning": "to lose (a game) (v.i.), to be defeated",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t-t/Tk%(SS"
+  },
+  {
+    "expression": "指輪",
+    "reading": "ゆびわ",
+    "meaning": "(finger) ring",
+    "tags": [
+      "Genki",
+      "Genki_Ln.14",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "By9Xq1v4J{"
+  },
+  {
+    "expression": "田舎",
+    "reading": "いなか",
+    "meaning": "rural, countryside",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qO;XWK^*$*"
+  },
+  {
+    "expression": "見つける",
+    "reading": "みつける",
+    "meaning": "to discover, to find (v.t.)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JSBDi~:Uul"
+  },
+  {
+    "expression": "高校生",
+    "reading": "こうこうせい",
+    "meaning": "high school student",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s|lGtGG1fi"
+  },
+  {
+    "expression": "講義",
+    "reading": "こうぎ",
+    "meaning": "a lecture",
+    "tags": [
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q(32?ls(B3"
+  },
+  {
+    "expression": "そんなに",
+    "reading": "そんなに",
+    "meaning": "so much, like that",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pG^h}ycj3("
+  },
+  {
+    "expression": "昼休み",
+    "reading": "ひるやすみ",
+    "meaning": "lunch break, noon recess",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lFVXC$-X%0"
+  },
+  {
+    "expression": "忘れ物",
+    "reading": "わすれもの",
+    "meaning": "lost article, something forgotten",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c>u.i{BBMW"
+  },
+  {
+    "expression": "下りる",
+    "reading": "おりる",
+    "meaning": "to get down, to go; come down",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d9,VKd=RU="
+  },
+  {
+    "expression": "腕",
+    "reading": "うで",
+    "meaning": "arm (in reference to body)",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "AiW}:.4@ze"
+  },
+  {
+    "expression": "訳",
+    "reading": "わけ",
+    "meaning": "reason; explanation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "usS4^zwn[>"
+  },
+  {
+    "expression": "承知",
+    "reading": "しょうちする",
+    "meaning": "consent, acceptance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "H:BcaGHLGe"
+  },
+  {
+    "expression": "日記",
+    "reading": "にっき",
+    "meaning": "diary, journal",
+    "tags": [
+      "Genki",
+      "Genki_Ln.18",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "BMMWqQZ#[,"
+  },
+  {
+    "expression": "高校; 高等学校",
+    "reading": "こうこう; こうとうがっこう",
+    "meaning": "high school; senior high school",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KKBE9#o7:F"
+  },
+  {
+    "expression": "似る",
+    "reading": "にる",
+    "meaning": "to resemble, to be similar",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i`_a~no4G!"
+  },
+  {
+    "expression": "～おわる",
+    "reading": "～おわる",
+    "meaning": "to finish doing ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qwf(Try}@4"
+  },
+  {
+    "expression": "暖房",
+    "reading": "だんぼう",
+    "meaning": "heating",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dvn`p4e0P6"
+  },
+  {
+    "expression": "留守",
+    "reading": "るす",
+    "meaning": "absence; not at home",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "BK(gHI]ze3"
+  },
+  {
+    "expression": "割合",
+    "reading": "わりあい",
+    "meaning": "rate, ratio, percentage",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vGMwhqQc%{"
+  },
+  {
+    "expression": "寺",
+    "reading": "てら",
+    "meaning": "Buddhist temple",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Hiagec7p~["
+  },
+  {
+    "expression": "慣れる",
+    "reading": "なれる",
+    "meaning": "to grow accustomed to",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m30?cbGY7<"
+  },
+  {
+    "expression": "普通",
+    "reading": "ふつう",
+    "meaning": "common; usual",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s:f#izD=u2"
+  },
+  {
+    "expression": "手伝う",
+    "reading": "てつだう",
+    "meaning": "to help",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s_Pi8jG!6%"
+  },
+  {
+    "expression": "なるほど",
+    "reading": "なるほど",
+    "meaning": "I see; I now understand",
+    "tags": [
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b:e%Ujd8JZ"
+  },
+  {
+    "expression": "くださる",
+    "reading": "くださる",
+    "meaning": "(hon.) to give, to confer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sPmqOCO=cT"
+  },
+  {
+    "expression": "息子",
+    "reading": "むすこ",
+    "meaning": "(humble) son",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xE%1d@q~=0"
+  },
+  {
+    "expression": "お子さん",
+    "reading": "おこさん",
+    "meaning": "(someone else's) child (polite)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JfH~5*U.a_"
+  },
+  {
+    "expression": "会場",
+    "reading": "かいじょう",
+    "meaning": "venue, meeting place",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rYhMPU9-hG"
+  },
+  {
+    "expression": "笑う",
+    "reading": "わらう",
+    "meaning": "to laugh, to smile",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y~ow$kbx8M"
+  },
+  {
+    "expression": "運ぶ",
+    "reading": "はこぶ",
+    "meaning": "to transport, to carry",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v9DX2R5H-S"
+  },
+  {
+    "expression": "文学",
+    "reading": "ぶんがく",
+    "meaning": "literature",
+    "tags": [
+      "Genki",
+      "Genki_Ln.1",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lUX,?(3;D]"
+  },
+  {
+    "expression": "光",
+    "reading": "ひかり",
+    "meaning": "light",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qZgkVt9uh<"
+  },
+  {
+    "expression": "お見舞い",
+    "reading": "おみまい",
+    "meaning": "calling on someone who is ill, visit",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vi}b>#%^FD"
+  },
+  {
+    "expression": "席",
+    "reading": "せき",
+    "meaning": "a seat",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "frRhF)UU}W"
+  },
+  {
+    "expression": "～様",
+    "reading": "～さま",
+    "meaning": "Mr., Mrs., Ms.",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JidByAlQoq"
+  },
+  {
+    "expression": "ご存じ",
+    "reading": "ごぞんじ",
+    "meaning": "knowing, acquaintance",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k8%o+}YbEd"
+  },
+  {
+    "expression": "下る",
+    "reading": "さがる",
+    "meaning": "to descend, to drop, to fall",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oX|5UGkIW2"
+  },
+  {
+    "expression": "字",
+    "reading": "じ",
+    "meaning": "letter; character",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "paD_A<.{(!"
+  },
+  {
+    "expression": "アジア",
+    "reading": "アジア",
+    "meaning": "Asia",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Q{IM`lB,o7"
+  },
+  {
+    "expression": "褒める",
+    "reading": "ほめる",
+    "meaning": "to praise; to say nice things",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "!.H?[6|B."
+  },
+  {
+    "expression": "空く",
+    "reading": "すく",
+    "meaning": "to be empty (in reference to people), to be less crowded",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fg<?z[S^C:"
+  },
+  {
+    "expression": "あ",
+    "reading": "あ",
+    "meaning": "Ah",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qc]3W&Jc<m"
+  },
+  {
+    "expression": "最も",
+    "reading": "もっとも",
+    "meaning": "most",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "TJ2Lm-F`{"
+  },
+  {
+    "expression": "合う",
+    "reading": "あう",
+    "meaning": "to fit, to match",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OAIc&<q]o$"
+  },
+  {
+    "expression": "～代",
+    "reading": "～だい",
+    "meaning": "~ age; period",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y4r%$Sls[D"
+  },
+  {
+    "expression": "最後",
+    "reading": "さいご",
+    "meaning": "last, end",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P^V7$JoB=L"
+  },
+  {
+    "expression": "値段",
+    "reading": "ねだん",
+    "meaning": "price",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E3[j8aN}XJ"
+  },
+  {
+    "expression": "退院",
+    "reading": "たいいんする",
+    "meaning": "leaving hospital",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E-^*b8-xhX"
+  },
+  {
+    "expression": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "exhibition",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "PN~#oqMNRx"
+  },
+  {
+    "expression": "久しぶり",
+    "reading": "ひさしぶり",
+    "meaning": "it has been a long time; for the first time in a long time",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "J`#Y!H,,<%"
+  },
+  {
+    "expression": "カーテン",
+    "reading": "カーテン",
+    "meaning": "curtain",
+    "tags": [
+      "Genki",
+      "Genki_Ln.18",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "NFW!?qkYyo"
+  },
+  {
+    "expression": "汽車",
+    "reading": "きしゃ",
+    "meaning": "train (steam)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KH0a_3!CiN"
+  },
+  {
+    "expression": "遅れる",
+    "reading": "おくれる",
+    "meaning": "to (be) become late",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rDxLnq^]Ph"
+  },
+  {
+    "expression": "見つかる",
+    "reading": "みつかる",
+    "meaning": "to be found (v.i.), to be discovered",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b>m8LlfHOm"
+  },
+  {
+    "expression": "召し上がる",
+    "reading": "めしあがる",
+    "meaning": "-- honorific form of 食べる (たべる) and 飲む (のむ) --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Fa=r1a7`zE"
+  },
+  {
+    "expression": "太る",
+    "reading": "ふとる",
+    "meaning": "to gain weight",
+    "tags": [
+      "Genki",
+      "Genki_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "BN&?E=z3*H"
+  },
+  {
+    "expression": "注射",
+    "reading": "ちゅうしゃ",
+    "meaning": "injection",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lG`+>+=?Os"
+  },
+  {
+    "expression": "様",
+    "reading": "よう",
+    "meaning": "way, manner, kind",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "t[MNQO-W6"
+  },
+  {
+    "expression": "～おき",
+    "reading": "～おき",
+    "meaning": "after every ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ISv;l<*PQR"
+  },
+  {
+    "expression": "最初",
+    "reading": "さいしょ",
+    "meaning": "beginning, first",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "uJfgbAk&PM"
+  },
+  {
+    "expression": "御～",
+    "reading": "ご～",
+    "meaning": "honorable ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "b?YXE$9w]A"
+  },
+  {
+    "expression": "安心",
+    "reading": "あんしん",
+    "meaning": "peace of mind, relief",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C^vt]hY6vW"
+  },
+  {
+    "expression": "直る",
+    "reading": "なおる",
+    "meaning": "to be fixed",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "wOi%P<vl?O"
+  },
+  {
+    "expression": "集める",
+    "reading": "あつめる",
+    "meaning": "to collect, to gather (v.t.), to assemble",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OW4zN$vq<h"
+  },
+  {
+    "expression": "直す",
+    "reading": "なおす",
+    "meaning": "to correct (v.t.); to fix",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g9g}aXNY+w"
+  },
+  {
+    "expression": "続く",
+    "reading": "つづく",
+    "meaning": "to be continued",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "I,82^s2,ha"
+  },
+  {
+    "expression": "先輩",
+    "reading": "せんぱい",
+    "meaning": "senior members of a group",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iQ7T^oqMw-"
+  },
+  {
+    "expression": "約束",
+    "reading": "やくそく",
+    "meaning": "arrangement, appointment, promise",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gG#1gGEk5+"
+  },
+  {
+    "expression": "世話",
+    "reading": "せわする",
+    "meaning": "looking after; to look after",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "u{y[j%Z9W2"
+  },
+  {
+    "expression": "近所",
+    "reading": "きんじょ",
+    "meaning": "neighborhood",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "hCRlD3m.g("
+  },
+  {
+    "expression": "将来",
+    "reading": "しょうらい",
+    "meaning": "(in the) future; prospects",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "Intermediate_Japanese_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y@QKAOSu|U"
+  },
+  {
+    "expression": "億",
+    "reading": "おく",
+    "meaning": "hundred million",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iX-FN@Kj?p"
+  },
+  {
+    "expression": "数学",
+    "reading": "すうがく",
+    "meaning": "mathematics",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EO5o6*tgn9"
+  },
+  {
+    "expression": "文化",
+    "reading": "ぶんか",
+    "meaning": "culture",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z%ky|Q={QQ"
+  },
+  {
+    "expression": "払う",
+    "reading": "はらう",
+    "meaning": "to pay",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i~kIT)jn~k"
+  },
+  {
+    "expression": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "custom (in reference to culture)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v)1shr#hf="
+  },
+  {
+    "expression": "焼ける",
+    "reading": "やける",
+    "meaning": "to burn, to be roasted",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ws>!BOMOtu"
+  },
+  {
+    "expression": "君",
+    "reading": "きみ",
+    "meaning": "you (informal for men)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "P|5<lpF.:2"
+  },
+  {
+    "expression": "冷える",
+    "reading": "ひえる",
+    "meaning": "to grow cold, to cool down",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "np-S*rxEi@"
+  },
+  {
+    "expression": "点く",
+    "reading": "つく",
+    "meaning": "to be started, to be switched on",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s+|BHBlyTh"
+  },
+  {
+    "expression": "この間",
+    "reading": "このあいだ",
+    "meaning": "the other day, recently",
+    "tags": [
+      "Genki",
+      "Genki_Ln.16",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c(L)|Hc$oD"
+  },
+  {
+    "expression": "格好",
+    "reading": "かっこう",
+    "meaning": "appearance, manner, shape, form, posture",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "j4zgBW-)uI"
+  },
+  {
+    "expression": "かまう",
+    "reading": "",
+    "meaning": "to mind, to care about, to be concerned about",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l%US3Ov|)s"
+  },
+  {
+    "expression": "続ける",
+    "reading": "つづける",
+    "meaning": "to continue, to keep up",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Dmf=K4sY#J"
+  },
+  {
+    "expression": "落す",
+    "reading": "おとす",
+    "meaning": "to drop, to lose",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p0#ZhzpH-}"
+  },
+  {
+    "expression": "明日",
+    "reading": "あす",
+    "meaning": "tomorrow",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ITR}TzQQ.H"
+  },
+  {
+    "expression": "出発",
+    "reading": "しゅっぱつする",
+    "meaning": "departure",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "hH4(GI}wN&"
+  },
+  {
+    "expression": "拝見",
+    "reading": "はいけんする",
+    "meaning": "(humble) (polite) seeing, look at",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "udBE2Kt)`="
+  },
+  {
+    "expression": "割れる",
+    "reading": "われる",
+    "meaning": "to break",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G?t1hbgS`?"
+  },
+  {
+    "expression": "背中",
+    "reading": "せなか",
+    "meaning": "back (of body)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "hg%3^*8ICS"
+  },
+  {
+    "expression": "新聞社",
+    "reading": "しんぶんしゃ",
+    "meaning": "newspaper company",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m^QI_$65r>"
+  },
+  {
+    "expression": "いじめる",
+    "reading": "いじめる",
+    "meaning": "to bully, to torment",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gd&LFipme&"
+  },
+  {
+    "expression": "回る、回す",
+    "reading": "まわる、まわす",
+    "meaning": "to go around, to revolve",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OXe]%sDun3"
+  },
+  {
+    "expression": "～君",
+    "reading": "～くん",
+    "meaning": "Mr. (junior) ~, master ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "yqGP#fHaRj"
+  },
+  {
+    "expression": "おっしゃる",
+    "reading": "おっしゃる",
+    "meaning": "-- honorific expression for いう --",
+    "tags": [
+      "Genki",
+      "Genki_Ln.19",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Bv6:t/{x_6"
+  },
+  {
+    "expression": "眠い",
+    "reading": "ねむい",
+    "meaning": "sleepy, drowsy",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g1)0|I<ucL"
+  },
+  {
+    "expression": "濡れる",
+    "reading": "ぬれる",
+    "meaning": "to get wet",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "n,@-PdsLi~"
+  },
+  {
+    "expression": "倒れる",
+    "reading": "たおれる",
+    "meaning": "to collapse, to break down",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "k|Od:&*w$$"
+  },
+  {
+    "expression": "スーパー (マーケット)",
+    "reading": "スーパー (マーケット)",
+    "meaning": "supermarket",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "DH3_3RD/FB"
+  },
+  {
+    "expression": "アクセサリー",
+    "reading": "アクセサリー",
+    "meaning": "accessory",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qvO-&Z#/h"
+  },
+  {
+    "expression": "考える",
+    "reading": "かんがえる",
+    "meaning": "to think (about); to consider",
+    "tags": [
+      "Genki",
+      "Genki_Ln.18",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "M,WdgwY$__"
+  },
+  {
+    "expression": "向かう",
+    "reading": "むかう",
+    "meaning": "to face, to go towards",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "sLFa<Dk5BC"
+  },
+  {
+    "expression": "自由",
+    "reading": "じゆう",
+    "meaning": "freedom",
+    "tags": [
+      "Genki",
+      "Genki_Ln.22",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "lFnDZou.7G"
+  },
+  {
+    "expression": "仕方",
+    "reading": "しかた",
+    "meaning": "way (of doing something)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "AM]yYl5eIO"
+  },
+  {
+    "expression": "首",
+    "reading": "くび",
+    "meaning": "neck",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JPecz-JR}]"
+  },
+  {
+    "expression": "程",
+    "reading": "ほど",
+    "meaning": "degree, extent",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p%bF6rAi^7"
+  },
+  {
+    "expression": "代わり",
+    "reading": "かわり",
+    "meaning": "substitute, replacement",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "rZ#&qP#LLe"
+  },
+  {
+    "expression": "失敗",
+    "reading": "しっぱい",
+    "meaning": "failure, mistake",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "KT@^}h^l+<"
+  },
+  {
+    "expression": "工業",
+    "reading": "こうぎょう",
+    "meaning": "(manufacturing) industry",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "kLOeCV|5Ly"
+  },
+  {
+    "expression": "移る",
+    "reading": "うつる",
+    "meaning": "to move (from a house); to transfer (from a department); to shift",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "EwBssfbpE#"
+  },
+  {
+    "expression": "スーツケース",
+    "reading": "スーツケース",
+    "meaning": "suitcase",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z<X.?7YIM*"
+  },
+  {
+    "expression": "ひげ",
+    "reading": "ひげ",
+    "meaning": "beard",
+    "tags": [
+      "Genki",
+      "Genki_Ln.17",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "OC&/lk8Sbt"
+  },
+  {
+    "expression": "研究室",
+    "reading": "けんきゅうしつ",
+    "meaning": "the professor's office; laboratory",
+    "tags": [
+      "Intermediate_Japanese_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C=g-AqnF6#"
+  },
+  {
+    "expression": "工場",
+    "reading": "こうじょう",
+    "meaning": "factory",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "Intermediate_Japanese_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "zB*.:-`=4j"
+  },
+  {
+    "expression": "紹介",
+    "reading": "しょうかい",
+    "meaning": "an introduction",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dT=BbRaUvW"
+  },
+  {
+    "expression": "けれど; けれども",
+    "reading": "けれど; けれども",
+    "meaning": "but, although",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mDzGR2QZWc"
+  },
+  {
+    "expression": "舟",
+    "reading": "ふね",
+    "meaning": "ship, boat",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "B,m2(2B05a"
+  },
+  {
+    "expression": "動く",
+    "reading": "うごく",
+    "meaning": "to move",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "F~}14d`>!6"
+  },
+  {
+    "expression": "～(に) ついて",
+    "reading": "～(に) ついて",
+    "meaning": "about, concerning",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "s~K|,g+o=("
+  },
+  {
+    "expression": "コンサート",
+    "reading": "コンサート",
+    "meaning": "concert",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "c-Fil]C?m3"
+  },
+  {
+    "expression": "虫",
+    "reading": "むし",
+    "meaning": "insect",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gn!@amuoHx"
+  },
+  {
+    "expression": "優しい",
+    "reading": "やさしい",
+    "meaning": "kind (person), gentle (person), easy (problem)",
+    "tags": [
+      "Genki",
+      "Genki_Ln.5",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "gfbdYDbw~Y"
+  },
+  {
+    "expression": "コンピュータ; コンピューター",
+    "reading": "コンピュータ; コンピューター",
+    "meaning": "computer",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "i=KlAInS10"
+  },
+  {
+    "expression": "植える",
+    "reading": "うえる",
+    "meaning": "to plant",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "M>_C}7!LEs"
+  },
+  {
+    "expression": "両方",
+    "reading": "りょうほう",
+    "meaning": "both sides, both parties",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w+8nx7:F3*"
+  },
+  {
+    "expression": "汚れる",
+    "reading": "よごれる",
+    "meaning": "to become dirty",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "yxTJ>uc(`r"
+  },
+  {
+    "expression": "水泳",
+    "reading": "すいえい",
+    "meaning": "swimming",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p8o.J&l.y:"
+  },
+  {
+    "expression": "経験",
+    "reading": "けいけんする",
+    "meaning": "experience",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "f+zL`Y7buD"
+  },
+  {
+    "expression": "勝つ",
+    "reading": "かつ",
+    "meaning": "to win",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "vi?&`a{.eH"
+  },
+  {
+    "expression": "砂",
+    "reading": "すな",
+    "meaning": "sand",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "v^,Hr#Vg!e"
+  },
+  {
+    "expression": "警察",
+    "reading": "けいさつ",
+    "meaning": "police; police station",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Cqbq5lE;g6"
+  },
+  {
+    "expression": "取り替える",
+    "reading": "とりかえる",
+    "meaning": "to exchange, to replace",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "fAPL%{p!|p"
+  },
+  {
+    "expression": "急ぐ",
+    "reading": "いそぐ",
+    "meaning": "to hurry, to be in a hurry, to rush",
+    "tags": [
+      "Genki",
+      "Genki_Ln.6",
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C+o)~b82kd"
+  },
+  {
+    "expression": "簡単",
+    "reading": "かんたん",
+    "meaning": "simple",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "oG^L}3iGdF"
+  },
+  {
+    "expression": "参る",
+    "reading": "まいる",
+    "meaning": "humble expression for 行く and 来る",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "Intermediate_Japanese_Ln.6",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dY_fG(MyTI"
+  },
+  {
+    "expression": "全然",
+    "reading": "ぜんぜん",
+    "meaning": "not at all; wholly, entirely",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iJGs=<smMr"
+  },
+  {
+    "expression": "特別",
+    "reading": "とくべつ",
+    "meaning": "special",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w*:rZ|MXHf"
+  },
+  {
+    "expression": "復習",
+    "reading": "ふくしゅう",
+    "meaning": "review (of lessons), revision",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O40vK?08(g"
+  },
+  {
+    "expression": "間に合う",
+    "reading": "まにあう",
+    "meaning": "to be in time for",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l3xWb^IMb"
+  },
+  {
+    "expression": "役に立つ",
+    "reading": "やくにたつ",
+    "meaning": "to be helpful, to be useful",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Bodoj{2=?#"
+  },
+  {
+    "expression": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "very soon; in a few moments; days",
+    "tags": [
+      "Genki",
+      "Genki_Ln.12",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "cr{2h{c->"
+  },
+  {
+    "expression": "真中",
+    "reading": "まんなか",
+    "meaning": "middle, center",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "R5Bu:`G<@"
+  },
+  {
+    "expression": "戻る",
+    "reading": "もどる",
+    "meaning": "to return (v.i.); to come back",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g9-rOAl2<k"
+  },
+  {
+    "expression": "研究",
+    "reading": "けんきゅう",
+    "meaning": "study, research, investigation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "r,JjBHrK!8"
+  },
+  {
+    "expression": "ケーキ",
+    "reading": "ケーキ",
+    "meaning": "cake",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iADgmRoi>q"
+  },
+  {
+    "expression": "草",
+    "reading": "くさ",
+    "meaning": "grass",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "CRSs:E15FF"
+  },
+  {
+    "expression": "込む",
+    "reading": "こむ",
+    "meaning": "to be crowded",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C3zU]</XPv"
+  },
+  {
+    "expression": "この頃",
+    "reading": "このごろ",
+    "meaning": "these days, nowadays",
+    "tags": [
+      "Genki",
+      "Genki_Ln.10",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "F2eeT8$KYX"
+  },
+  {
+    "expression": "訪ねる",
+    "reading": "たずねる",
+    "meaning": "to visit",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l{^{>8a$f>"
+  },
+  {
+    "expression": "下げる",
+    "reading": "さげる",
+    "meaning": "to lower (v.t.); to hang",
+    "tags": [
+      "Intermediate_Japanese_Ln.2",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mC:cy`3AnB"
+  },
+  {
+    "expression": "花見",
+    "reading": "はなみ",
+    "meaning": "cherry-blossom viewing",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ulvW_e[_zQ"
+  },
+  {
+    "expression": "途中",
+    "reading": "とちゅう",
+    "meaning": "on the way, midway",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qP[3T,bvTy"
+  },
+  {
+    "expression": "入院",
+    "reading": "にゅういんする",
+    "meaning": "hospitalization",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "iB?^g:!ksb"
+  },
+  {
+    "expression": "乗り換える",
+    "reading": "のりかえる",
+    "meaning": "to transfer (trains), to change (bus, train, etc.)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Fu#~2.ajY<"
+  },
+  {
+    "expression": "別れる",
+    "reading": "わかれる",
+    "meaning": "to part from, to separate",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "ova[fXA&]m"
+  },
+  {
+    "expression": "～町",
+    "reading": "～ちょう",
+    "meaning": "the town of ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mf84}],`T,"
+  },
+  {
+    "expression": "安全",
+    "reading": "あんぜん",
+    "meaning": "safety, security",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "x>KuTt~>`B"
+  },
+  {
+    "expression": "看護婦",
+    "reading": "かんごふ",
+    "meaning": "(female) nurse",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Mvt??7-[{v"
+  },
+  {
+    "expression": "見物",
+    "reading": "けんぶつ",
+    "meaning": "sightseeing",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "z/6V9+.-]v"
+  },
+  {
+    "expression": "相談",
+    "reading": "そうだんする",
+    "meaning": "consultation",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "h,~$1#Tmi]"
+  },
+  {
+    "expression": "ガソリンスタンド",
+    "reading": "ガソリンスタンド",
+    "meaning": "gas station, service station",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "NoACr|m()D"
+  },
+  {
+    "expression": "テニス",
+    "reading": "テニス",
+    "meaning": "tennis",
+    "tags": [
+      "Genki",
+      "Genki_Ln.3",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Bm|4X!fT~f"
+  },
+  {
+    "expression": "眠る",
+    "reading": "ねむる",
+    "meaning": "to sleep",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "H2kKiMD`}M"
+  },
+  {
+    "expression": "上がる",
+    "reading": "あがる",
+    "meaning": "to rise, to go up",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "cvVez@U$xD"
+  },
+  {
+    "expression": "翻訳",
+    "reading": "ほんやく",
+    "meaning": "translation",
+    "tags": [
+      "Intermediate_Japanese_Ln.8",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "q5u{4?O6M1"
+  },
+  {
+    "expression": "食事",
+    "reading": "しょくじする",
+    "meaning": "meal",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "K<!4=Wx(&)"
+  },
+  {
+    "expression": "お陰",
+    "reading": "おかげ",
+    "meaning": "thanks or owing to",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "y:GH2MLVp!"
+  },
+  {
+    "expression": "娘",
+    "reading": "むすめ",
+    "meaning": "daughter (humble)",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D>Uc.0t(Pv"
+  },
+  {
+    "expression": "湯",
+    "reading": "ゆ",
+    "meaning": "hot water",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "qZk(zY%Dgg"
+  },
+  {
+    "expression": "競争",
+    "reading": "きょうそう",
+    "meaning": "competition, contest",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "G%KC6%zs?X"
+  },
+  {
+    "expression": "会議",
+    "reading": "かいぎ",
+    "meaning": "business meeting; conference",
+    "tags": [
+      "Genki",
+      "Genki_Ln.21",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "O^:<Y%-[JT"
+  },
+  {
+    "expression": "湖",
+    "reading": "みずうみ",
+    "meaning": "lake",
+    "tags": [
+      "Genki",
+      "Genki_Ln.11",
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "pP3.DL~IX-"
+  },
+  {
+    "expression": "集まる",
+    "reading": "あつまる",
+    "meaning": "to gather (v.i.), to collect",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "dj|VykRm7g"
+  },
+  {
+    "expression": "～にくい",
+    "reading": "～にくい",
+    "meaning": "difficult to do ~",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "m7`CbDBUYU"
+  },
+  {
+    "expression": "生活",
+    "reading": "せいかつする",
+    "meaning": "living, life; to live",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "w`Fz_<nW/g"
+  },
+  {
+    "expression": "糸",
+    "reading": "いと",
+    "meaning": "thread",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "IpR-(E.>}{"
+  },
+  {
+    "expression": "関係",
+    "reading": "かんけい",
+    "meaning": "relation(ship), connection",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A95yiv24#q"
+  },
+  {
+    "expression": "ピアノ",
+    "reading": "ピアノ",
+    "meaning": "piano",
+    "tags": [
+      "Genki",
+      "Genki_Ln.9",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "l~WqV~#3P+"
+  },
+  {
+    "expression": "～目",
+    "reading": "～め",
+    "meaning": "number ~ sequence, ~nd; ~th",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "E~pd/+U#PU"
+  },
+  {
+    "expression": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "broadcast program",
+    "tags": [
+      "Genki",
+      "Genki_Ln.15",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "A~P5;`m>{J"
+  },
+  {
+    "expression": "急",
+    "reading": "きゅう",
+    "meaning": "urgent, sudden; steep",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tI;p#VWdsZ"
+  },
+  {
+    "expression": "棚",
+    "reading": "たな",
+    "meaning": "shelves, rack",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "u[EB{0+w?@"
+  },
+  {
+    "expression": "木綿",
+    "reading": "もめん",
+    "meaning": "cotton",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "C1;C=MJBjh"
+  },
+  {
+    "expression": "輸出",
+    "reading": "ゆしゅつする",
+    "meaning": "export",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "tgSB[Csamk"
+  },
+  {
+    "expression": "タイプ",
+    "reading": "タイプ",
+    "meaning": "type, style",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "GKLj7~1p[w"
+  },
+  {
+    "expression": "すり",
+    "reading": "すり",
+    "meaning": "pickpocket",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "LZR2]zL[V,"
+  },
+  {
+    "expression": "嬉しい",
+    "reading": "うれしい",
+    "meaning": "to be happy; to be glad",
+    "tags": [
+      "Genki",
+      "Genki_Ln.13",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d;<k5,X?rJ"
+  },
+  {
+    "expression": "アルコール",
+    "reading": "アルコール",
+    "meaning": "alcohol",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "g3}Or~C[qU"
+  },
+  {
+    "expression": "ソフト",
+    "reading": "ソフト",
+    "meaning": "soft; soft hat; software",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "D1{]Y{P=2b"
+  },
+  {
+    "expression": "神社",
+    "reading": "じんじゃ",
+    "meaning": "Shinto shrine",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "p-k,[(f(jy"
+  },
+  {
+    "expression": "大分",
+    "reading": "だいぶ",
+    "meaning": "fairly well, to a large extent, considerably, pretty much",
+    "tags": [
+      "Intermediate_Japanese_Ln.4",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "F=YkB>ku|#"
+  },
+  {
+    "expression": "楽しみ",
+    "reading": "たのしみ",
+    "meaning": "pleasure, joy",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "bsnv=TM#%{"
+  },
+  {
+    "expression": "趣味",
+    "reading": "しゅみ",
+    "meaning": "hobby; pastime",
+    "tags": [
+      "Genki",
+      "Genki_Ln.20",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "NkyAEs05(h"
+  },
+  {
+    "expression": "電報",
+    "reading": "でんぽう",
+    "meaning": "telegram",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "d~+A[2;3vQ"
+  },
+  {
+    "expression": "家内",
+    "reading": "かない",
+    "meaning": "(one's own) wife",
+    "tags": [
+      "Intermediate_Japanese_Ln.7",
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "JMHIMXzaOu"
+  },
+  {
+    "expression": "指",
+    "reading": "ゆび",
+    "meaning": "finger",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "mOnb%$R^21"
+  },
+  {
+    "expression": "これから",
+    "reading": "これから",
+    "meaning": "from now on, after this",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "xyC3_bE-{d"
+  },
+  {
+    "expression": "たまに",
+    "reading": "たまに",
+    "meaning": "occasionally",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "Op~e1|~DMP"
+  },
+  {
+    "expression": "社会",
+    "reading": "しゃかい",
+    "meaning": "society",
+    "tags": [
+      "JLPT",
+      "JLPT_N4"
+    ],
+    "guid": "br3q(Z|Zbk"
+  }
+]
