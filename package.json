@@ -11,7 +11,8 @@
     "format": "prettier-standard **/*.js --format",
     "lint": "prettier-standard  **/*.js --lint",
     "convert-to-json": "node scripts/convert-to-json.js",
-    "make-html": "node scripts/make-html.js"
+    "make-html": "node scripts/make-html.js",
+    "add-ko-meaning": "node scripts/add-ko-meaning.js"
   },
   "devDependencies": {
     "csv-parse": "^5.6.0",
