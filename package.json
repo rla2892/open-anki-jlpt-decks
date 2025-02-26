@@ -12,6 +12,7 @@
     "lint": "prettier-standard  **/*.js --lint",
     "convert-to-json": "node scripts/convert-to-json.js",
     "make-html": "node scripts/make-html.js",
+    "combine-words": "powershell scripts/combine.ps1",
     "add-ko-meaning": "node scripts/add-ko-meaning.js"
   },
   "devDependencies": {
