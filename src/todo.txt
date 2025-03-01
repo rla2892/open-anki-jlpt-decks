@@ -1,0 +1,5 @@
+n1-ko.txt 수정(done)
+n2-ko.txt 수정
+n3-ko.txt 수정
+n4-ko.txt 수정
+n5-ko.txt 수정
