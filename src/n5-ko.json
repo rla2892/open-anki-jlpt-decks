@@ -10,7 +10,7 @@
       "JLPT_N5"
     ],
     "guid": "HI-.Ij?HS~",
-    "meaningKo": "아"
+    "meaningKo": "아(감탄)"
   },
   {
     "expression": "会う",
@@ -193,7 +193,7 @@
       "JLPT_N5"
     ],
     "guid": "mF[0Aq7|V7",
-    "meaningKo": "내일"
+    "meaningKo": "모레"
   },
   {
     "expression": "足; 脚",
@@ -374,7 +374,7 @@
       "JLPT_N5"
     ],
     "guid": "r-[yF55!,-",
-    "meaningKo": "후"
+    "meaningKo": "이후에"
   },
   {
     "expression": "あなた",
@@ -388,7 +388,7 @@
       "JLPT_N5"
     ],
     "guid": "dwd.i?n%,!",
-    "meaningKo": "너"
+    "meaningKo": "당신"
   },
   {
     "expression": "兄",
@@ -800,7 +800,7 @@
       "JLPT_N5"
     ],
     "guid": "Q/Fb^F]yhk",
-    "meaningKo": "하루"
+    "meaningKo": "1일"
   },
   {
     "expression": "一番",
@@ -1052,7 +1052,7 @@
       "JLPT_N5"
     ],
     "guid": "j3j@,T!uH>",
-    "meaningKo": "상단"
+    "meaningKo": "위"
   },
   {
     "expression": "後ろ",
@@ -1136,7 +1136,7 @@
       "JLPT_N5"
     ],
     "guid": "i{d6CiQ#iK",
-    "meaningKo": "태어난"
+    "meaningKo": "태어나다"
   },
   {
     "expression": "海",
@@ -1568,7 +1568,7 @@
       "JLPT_N5"
     ],
     "guid": "O7S.k1^4+9",
-    "meaningKo": "누름"
+    "meaningKo": "누르다"
   },
   {
     "expression": "遅い",
@@ -1743,7 +1743,7 @@
       "JLPT_N5"
     ],
     "guid": "FT1U+`d~$u",
-    "meaningKo": "동일"
+    "meaningKo": "같은"
   },
   {
     "expression": "お兄さん",
@@ -1851,7 +1851,7 @@
       "JLPT_N5"
     ],
     "guid": "kI/erxg?st",
-    "meaningKo": "어머니"
+    "meaningKo": "경찰(친근하게 부르는 말)"
   },
   {
     "expression": "重い",
@@ -2087,7 +2087,7 @@
       "JLPT_N5"
     ],
     "guid": "b+[+YOY+dv",
-    "meaningKo": "반환"
+    "meaningKo": "돌려주다,되돌리다"
   },
   {
     "expression": "帰る",
@@ -2136,7 +2136,7 @@
       "JLPT_N5"
     ],
     "guid": "yajlZ<1W@=",
-    "meaningKo": "걸리다"
+    "meaningKo": "걸리다(시간, 돈이)"
   },
   {
     "expression": "鍵",
@@ -2164,7 +2164,7 @@
       "JLPT_N5"
     ],
     "guid": "ytOa}oy+zO",
-    "meaningKo": "쓰기"
+    "meaningKo": "쓰다(글을)"
   },
   {
     "expression": "学生",
@@ -2204,7 +2204,7 @@
       "JLPT_N5"
     ],
     "guid": "J@I.fZoEvE",
-    "meaningKo": "걸다"
+    "meaningKo": "(안경) 쓰다, (벽에) 걸다"
   },
   {
     "expression": "かける",
@@ -2220,7 +2220,7 @@
       "JLPT_N5"
     ],
     "guid": "j[@hZ&;%2u",
-    "meaningKo": "걸다"
+    "meaningKo": "(전화)걸다, 앉다"
   },
   {
     "expression": "傘",
@@ -2248,7 +2248,7 @@
       "JLPT_N5"
     ],
     "guid": "yag&XA]F86",
-    "meaningKo": "빌려주는"
+    "meaningKo": "빌려주다"
   },
   {
     "expression": "風",
@@ -2292,7 +2292,7 @@
       "JLPT_N5"
     ],
     "guid": "GtdTiap.Os",
-    "meaningKo": "쪽"
+    "meaningKo": "사람을 높여 부르는 말, 방법"
   },
   {
     "expression": "家族",
@@ -2388,7 +2388,7 @@
       "JLPT_N5"
     ],
     "guid": "NblB:vgsi`",
-    "meaningKo": "뿔"
+    "meaningKo": "구석"
   },
   {
     "expression": "かばん",
@@ -2429,7 +2429,7 @@
       "JLPT_N5"
     ],
     "guid": "v~,/++9.ks",
-    "meaningKo": "쓰다"
+    "meaningKo": "입다, (모자를) 쓰다"
   },
   {
     "expression": "紙",
@@ -2526,7 +2526,7 @@
       "JLPT_N5"
     ],
     "guid": "e--3P:#0au",
-    "meaningKo": "~가르다"
+    "meaningKo": "~라고 느끼는"
   },
   {
     "expression": "軽い",
@@ -2578,7 +2578,7 @@
       "JLPT_N5"
     ],
     "guid": "QzV_(D2VAO",
-    "meaningKo": "강; 강"
+    "meaningKo": "강"
   },
   {
     "expression": "～側",
@@ -2682,7 +2682,7 @@
       "JLPT_N5"
     ],
     "guid": "CbCe+?lSS(",
-    "meaningKo": "듣다"
+    "meaningKo": "듣다, 묻다"
   },
   {
     "expression": "北",
@@ -2696,7 +2696,7 @@
       "JLPT_N5"
     ],
     "guid": "c_4*(T~qY|",
-    "meaningKo": "북"
+    "meaningKo": "북쪽"
   },
   {
     "expression": "ギター",
@@ -2953,7 +2953,7 @@
       "JLPT_N5"
     ],
     "guid": "v,MI,fa=Pd",
-    "meaningKo": "킬로그램; 킬로그램"
+    "meaningKo": "킬로그램"
   },
   {
     "expression": "キロ; キロメートル",
@@ -2966,7 +2966,7 @@
       "JLPT_N5"
     ],
     "guid": "I+%u|o<M9)",
-    "meaningKo": "킬로미터; 킬로미터"
+    "meaningKo": "킬로미터"
   },
   {
     "expression": "銀行",
@@ -3223,7 +3223,7 @@
       "JLPT_N5"
     ],
     "guid": "eM3bqzySWE",
-    "meaningKo": "블랙"
+    "meaningKo": "검정색"
   },
   {
     "expression": "黒い",
@@ -3344,7 +3344,7 @@
       "JLPT_N5"
     ],
     "guid": "C6oDoveAM%",
-    "meaningKo": "건강하다"
+    "meaningKo": "건강"
   },
   {
     "expression": "～個",
@@ -3382,7 +3382,7 @@
       "JLPT_N5"
     ],
     "guid": "OS-NJNma:q",
-    "meaningKo": "~어"
+    "meaningKo": "~어(언어)"
   },
   {
     "expression": "公園",
@@ -3435,7 +3435,7 @@
       "JLPT_N5"
     ],
     "guid": "Opg/[%q+N8",
-    "meaningKo": "교번"
+    "meaningKo": "파출소"
   },
   {
     "expression": "声",
@@ -3700,7 +3700,7 @@
       "JLPT_N5"
     ],
     "guid": "QJ1l#P3oS5",
-    "meaningKo": "어려움"
+    "meaningKo": "곤란하다"
   },
   {
     "expression": "これ",
@@ -3714,7 +3714,7 @@
       "JLPT_N5"
     ],
     "guid": "CY7%/#&PC;",
-    "meaningKo": "이"
+    "meaningKo": "이것"
   },
   {
     "expression": "～ころ; ～ごろ",
@@ -3726,7 +3726,7 @@
       "JLPT_N5"
     ],
     "guid": "ygFZGug3gm",
-    "meaningKo": "～경; ～경"
+    "meaningKo": "～무렵,~쯤"
   },
   {
     "expression": "今月",
@@ -3807,7 +3807,7 @@
       "JLPT_N5"
     ],
     "guid": "yIt4LQzbb!",
-    "meaningKo": "～세"
+    "meaningKo": "～세(나이)"
   },
   {
     "expression": "財布",
@@ -3864,7 +3864,7 @@
       "JLPT_N5"
     ],
     "guid": "F>Pt~gStbR",
-    "meaningKo": "개화"
+    "meaningKo": "개화하다"
   },
   {
     "expression": "作文",
@@ -3891,7 +3891,7 @@
       "JLPT_N5"
     ],
     "guid": "b|c|&{UKxH",
-    "meaningKo": "삽입"
+    "meaningKo": "펼치다"
   },
   {
     "expression": "～冊",
@@ -3903,7 +3903,7 @@
       "JLPT_N5"
     ],
     "guid": "DJ:3n{-XN%",
-    "meaningKo": "～책"
+    "meaningKo": "～권(책)"
   },
   {
     "expression": "雑誌",
@@ -3961,7 +3961,7 @@
       "JLPT_N5"
     ],
     "guid": "C4/Z2oi:V>",
-    "meaningKo": "내년"
+    "meaningKo": "내후년"
   },
   {
     "expression": "～さん",
@@ -3986,7 +3986,7 @@
       "JLPT_N5"
     ],
     "guid": "jB}%X}YQ)P",
-    "meaningKo": "세"
+    "meaningKo": "삼(3)"
   },
   {
     "expression": "散歩",
@@ -4012,7 +4012,7 @@
       "JLPT_N5"
     ],
     "guid": "q%G#*K^0R+",
-    "meaningKo": "네"
+    "meaningKo": "사(4)"
   },
   {
     "expression": "～時",
@@ -4025,7 +4025,7 @@
       "JLPT_N5"
     ],
     "guid": "m]7PVW-h[^",
-    "meaningKo": "~시"
+    "meaningKo": "~때, ~시"
   },
   {
     "expression": "塩",
@@ -4093,7 +4093,7 @@
       "JLPT_N5"
     ],
     "guid": "BpR$XStq*~",
-    "meaningKo": "작업"
+    "meaningKo": "일"
   },
   {
     "expression": "辞書",
@@ -4145,7 +4145,7 @@
       "JLPT_N5"
     ],
     "guid": "d9Ei.i(]l3",
-    "meaningKo": "일곱"
+    "meaningKo": "칠(7)"
   },
   {
     "expression": "質問",
@@ -4211,7 +4211,7 @@
       "JLPT_N5"
     ],
     "guid": "q(KV,tLbs@",
-    "meaningKo": "글자"
+    "meaningKo": "사전"
   },
   {
     "expression": "自分",
@@ -4265,7 +4265,7 @@
       "JLPT_N5"
     ],
     "guid": "zslBUbe/:)",
-    "meaningKo": "죄다"
+    "meaningKo": "조이다"
   },
   {
     "expression": "じゃ; じゃあ",
@@ -4278,7 +4278,7 @@
       "JLPT_N5"
     ],
     "guid": "I*;H$6{i?j",
-    "meaningKo": "그럼; 그럼"
+    "meaningKo": "그럼"
   },
   {
     "expression": "写真",
@@ -4346,7 +4346,7 @@
       "JLPT_N5"
     ],
     "guid": "GjJjAMMc<N",
-    "meaningKo": "~중"
+    "meaningKo": "~중(~하는 중)"
   },
   {
     "expression": "～週間",
@@ -4403,7 +4403,7 @@
       "JLPT_N5"
     ],
     "guid": "zE7uPe$TPk",
-    "meaningKo": "잘"
+    "meaningKo": "잘하다"
   },
   {
     "expression": "丈夫",
@@ -4415,7 +4415,7 @@
       "JLPT_N5"
     ],
     "guid": "rzxPYrs,=L",
-    "meaningKo": "내구성"
+    "meaningKo": "튼튼한"
   },
   {
     "expression": "醤油",
@@ -4470,7 +4470,7 @@
       "JLPT_N5"
     ],
     "guid": "?4vV_taj)",
-    "meaningKo": "화이트"
+    "meaningKo": "흰색"
   },
   {
     "expression": "白い",
@@ -4484,7 +4484,7 @@
       "JLPT_N5"
     ],
     "guid": "yL-#%FMe~@",
-    "meaningKo": "흰색"
+    "meaningKo": "하얗다"
   },
   {
     "expression": "～人",
@@ -4496,7 +4496,7 @@
       "JLPT_N5"
     ],
     "guid": "cRB`piJTT=",
-    "meaningKo": "~사람"
+    "meaningKo": "~인(사람 수)"
   },
   {
     "expression": "新聞",
@@ -4537,7 +4537,7 @@
       "JLPT_N5"
     ],
     "guid": "wwi3CXCv2|",
-    "meaningKo": "빨다"
+    "meaningKo": "흡입하다"
   },
   {
     "expression": "スカート",
@@ -4706,7 +4706,7 @@
       "JLPT_N5"
     ],
     "guid": "ym>?}%jeF+",
-    "meaningKo": "살다"
+    "meaningKo": "살다(거주)"
   },
   {
     "expression": "する",
@@ -4748,7 +4748,7 @@
       "JLPT_N5"
     ],
     "guid": "xQDy{9R)S2",
-    "meaningKo": "등"
+    "meaningKo": "키, 등"
   },
   {
     "expression": "生徒",
@@ -4802,7 +4802,7 @@
       "JLPT_N5"
     ],
     "guid": "w`:i7/YHYU",
-    "meaningKo": "배광"
+    "meaningKo": "신사복"
   },
   {
     "expression": "狭い",
@@ -4842,7 +4842,7 @@
       "JLPT_N5"
     ],
     "guid": "IvU;IZmo9!",
-    "meaningKo": "천"
+    "meaningKo": "천(1000)"
   },
   {
     "expression": "先月",
@@ -5010,7 +5010,7 @@
       "JLPT_N5"
     ],
     "guid": "AFB3>g85F]",
-    "meaningKo": "외부"
+    "meaningKo": "나머지"
   },
   {
     "expression": "その",
@@ -5038,7 +5038,7 @@
       "JLPT_N5"
     ],
     "guid": "M)]t*`<F@c",
-    "meaningKo": "메밀"
+    "meaningKo": "옆, 메밀"
   },
   {
     "expression": "空",
@@ -5079,7 +5079,7 @@
       "JLPT_N5"
     ],
     "guid": "sV(hn]KLzr",
-    "meaningKo": "그럼"
+    "meaningKo": "그러고나서"
   },
   {
     "expression": "それでは",
@@ -5103,7 +5103,7 @@
       "JLPT_N5"
     ],
     "guid": "ztM0ejgNN~",
-    "meaningKo": "～대"
+    "meaningKo": "～대(자동차)"
   },
   {
     "expression": "大学",
@@ -5157,7 +5157,7 @@
       "JLPT_N5"
     ],
     "guid": "AZ,CM~A,0E",
-    "meaningKo": "사랑"
+    "meaningKo": "너무 좋아"
   },
   {
     "expression": "大切",
@@ -5221,7 +5221,7 @@
       "JLPT_N5"
     ],
     "guid": "Lcbr*3r3b5",
-    "meaningKo": "~만"
+    "meaningKo": "~만(오직)"
   },
   {
     "expression": "沢山",
@@ -5299,7 +5299,7 @@
       "JLPT_N5"
     ],
     "guid": "L8wVt#MfRS",
-    "meaningKo": "갓"
+    "meaningKo": "세로"
   },
   {
     "expression": "建物",
@@ -5521,7 +5521,7 @@
       "JLPT_N5"
     ],
     "guid": "N2Hj9)qK/l",
-    "meaningKo": "다르다"
+    "meaningKo": "다르다,틀리다"
   },
   {
     "expression": "近く",
@@ -5615,7 +5615,7 @@
       "JLPT_N5"
     ],
     "guid": "J]E)zcwU%w",
-    "meaningKo": "~중"
+    "meaningKo": "~중(~하는 중)"
   },
   {
     "expression": "丁度",
@@ -5654,7 +5654,7 @@
       "JLPT_N5"
     ],
     "guid": "qK&D4iveg",
-    "meaningKo": "하루"
+    "meaningKo": "1일"
   },
   {
     "expression": "使う",
@@ -5666,7 +5666,7 @@
       "JLPT_N5"
     ],
     "guid": "B(Ve/L8[z5",
-    "meaningKo": "사용"
+    "meaningKo": "사용하다"
   },
   {
     "expression": "疲れる",
@@ -5739,7 +5739,7 @@
       "JLPT_N5"
     ],
     "guid": "dlanfH_M#M",
-    "meaningKo": "만들기"
+    "meaningKo": "만들다"
   },
   {
     "expression": "つける",
@@ -5901,7 +5901,7 @@
       "JLPT_N5"
     ],
     "guid": "vB~NGv+*>H",
-    "meaningKo": "할 수 있는"
+    "meaningKo": "할 수 있다"
   },
   {
     "expression": "出口",
@@ -6076,7 +6076,7 @@
       "JLPT_N5"
     ],
     "guid": "K9|0UgYaJ_",
-    "meaningKo": "~도"
+    "meaningKo": "~도(온도),~번(발생)"
   },
   {
     "expression": "ドア",
@@ -6140,7 +6140,7 @@
       "JLPT_N5"
     ],
     "guid": "CXiSJodxs@",
-    "meaningKo": "제발"
+    "meaningKo": "부디"
   },
   {
     "expression": "動物",
@@ -6170,7 +6170,7 @@
       "JLPT_N5"
     ],
     "guid": "Maz]_B`w,4",
-    "meaningKo": "아무래도"
+    "meaningKo": "감사합니다,아무래도"
   },
   {
     "expression": "十",
@@ -6199,7 +6199,7 @@
       "JLPT_N5"
     ],
     "guid": "Jl9yYXnyJ<",
-    "meaningKo": "멀리"
+    "meaningKo": "멀다"
   },
   {
     "expression": "十日",
@@ -6226,7 +6226,7 @@
       "JLPT_N5"
     ],
     "guid": "bGLp[lZC.;",
-    "meaningKo": "~시"
+    "meaningKo": "~때, ~시"
   },
   {
     "expression": "時々",
@@ -6573,7 +6573,7 @@
       "JLPT_N5"
     ],
     "guid": "rVjcK=lE15",
-    "meaningKo": "중간"
+    "meaningKo": "중간, 안"
   },
   {
     "expression": "長い",
@@ -6590,7 +6590,7 @@
       "JLPT_N5"
     ],
     "guid": "EHO`14{d-(",
-    "meaningKo": "긴"
+    "meaningKo": "길다"
   },
   {
     "expression": "鳴く",
@@ -6756,7 +6756,7 @@
       "JLPT_N5"
     ],
     "guid": "nIHPO#>_}+",
-    "meaningKo": "늘어선"
+    "meaningKo": "늘어서다"
   },
   {
     "expression": "並べる",
@@ -6785,7 +6785,7 @@
       "JLPT_N5"
     ],
     "guid": "ukKTUxR2lk",
-    "meaningKo": "하다"
+    "meaningKo": "되다"
   },
   {
     "expression": "何～",
@@ -6797,7 +6797,7 @@
       "JLPT_N5"
     ],
     "guid": "C!@pB0L*^>",
-    "meaningKo": "뭐~"
+    "meaningKo": "무슨~"
   },
   {
     "expression": "二",
@@ -6809,7 +6809,7 @@
       "JLPT_N5"
     ],
     "guid": "uzD!:&B)8|",
-    "meaningKo": "두"
+    "meaningKo": "이(2)"
   },
   {
     "expression": "にぎやか",
@@ -6847,7 +6847,7 @@
       "JLPT_N5"
     ],
     "guid": "D!YA^58RBg",
-    "meaningKo": "서"
+    "meaningKo": "서쪽"
   },
   {
     "expression": "～日",
@@ -6890,7 +6890,7 @@
       "JLPT_N5"
     ],
     "guid": "MH72iI!<]q",
-    "meaningKo": "수하물"
+    "meaningKo": "짐"
   },
   {
     "expression": "ニュース",
@@ -6930,7 +6930,7 @@
       "JLPT_N5"
     ],
     "guid": "FNnJ8yNPin",
-    "meaningKo": "~사람"
+    "meaningKo": "~인(사람 수)"
   },
   {
     "expression": "脱ぐ",
@@ -6957,7 +6957,7 @@
       "JLPT_N5"
     ],
     "guid": "gfQAF/k(q,",
-    "meaningKo": "따뜻한"
+    "meaningKo": "미지근하다"
   },
   {
     "expression": "ネクタイ",
@@ -7040,7 +7040,7 @@
       "JLPT_N5"
     ],
     "guid": "unM=ha?S3d",
-    "meaningKo": "등반"
+    "meaningKo": "오르다"
   },
   {
     "expression": "飲み物",
@@ -7136,7 +7136,7 @@
       "JLPT_N5"
     ],
     "guid": "JTOz#Az0jW",
-    "meaningKo": "~컵"
+    "meaningKo": "~잔(컵 세는 단위)"
   },
   {
     "expression": "灰皿",
@@ -7189,7 +7189,7 @@
       "JLPT_N5"
     ],
     "guid": "oRjJ`o{id)",
-    "meaningKo": "하쿠"
+    "meaningKo": "입다(주로 허리 아래에 입는 옷들)"
   },
   {
     "expression": "箱",
@@ -7201,7 +7201,7 @@
       "JLPT_N5"
     ],
     "guid": "D@BX&%Fydt",
-    "meaningKo": "박스"
+    "meaningKo": "상자"
   },
   {
     "expression": "橋",
@@ -7214,7 +7214,7 @@
       "JLPT_N5"
     ],
     "guid": "gMcz>SvPjQ",
-    "meaningKo": "다리"
+    "meaningKo": "다리(교각)"
   },
   {
     "expression": "箸",
@@ -7272,7 +7272,7 @@
       "JLPT_N5"
     ],
     "guid": "FM~Al0*F*3",
-    "meaningKo": "처음"
+    "meaningKo": "처음으로"
   },
   {
     "expression": "走る",
@@ -7305,7 +7305,7 @@
       "JLPT_N5"
     ],
     "guid": "nF2zK|?mh~",
-    "meaningKo": "버스"
+    "meaningKo": "버스,배스(목욕),베이스"
   },
   {
     "expression": "バター",
@@ -7358,7 +7358,7 @@
       "JLPT_N5"
     ],
     "guid": "maEI.lHT3>",
-    "meaningKo": "팔"
+    "meaningKo": "팔(8)"
   },
   {
     "expression": "二十日",
@@ -7513,7 +7513,7 @@
       "JLPT_N5"
     ],
     "guid": "nBD2D7_?kw",
-    "meaningKo": "맑음"
+    "meaningKo": "맑음(날씨)"
   },
   {
     "expression": "晴れる",
@@ -7527,7 +7527,7 @@
       "JLPT_N5"
     ],
     "guid": "ATM=j&::X;",
-    "meaningKo": "맑음"
+    "meaningKo": "맑다(날씨)"
   },
   {
     "expression": "半",
@@ -7542,7 +7542,7 @@
       "JLPT_N5"
     ],
     "guid": "s%lRHov]`n",
-    "meaningKo": "반"
+    "meaningKo": "반(절반)"
   },
   {
     "expression": "晩",
@@ -7567,7 +7567,7 @@
       "JLPT_N5"
     ],
     "guid": "b/wgPDiVBg",
-    "meaningKo": "～번"
+    "meaningKo": "～번(1번, 2번,...)"
   },
   {
     "expression": "パン",
@@ -7686,7 +7686,7 @@
       "JLPT_N5"
     ],
     "guid": "HK}b0#P-HS",
-    "meaningKo": "연주"
+    "meaningKo": "연주하다"
   },
   {
     "expression": "低い",
@@ -7805,7 +7805,7 @@
       "JLPT_N5"
     ],
     "guid": "J;(UasY_=O",
-    "meaningKo": "백"
+    "meaningKo": "백(100)"
   },
   {
     "expression": "病院",
@@ -7835,7 +7835,7 @@
       "JLPT_N5"
     ],
     "guid": "Ibs3I0!xB|",
-    "meaningKo": "병"
+    "meaningKo": "아픈 상태(질병으로 인한)"
   },
   {
     "expression": "平仮名",
@@ -7901,7 +7901,7 @@
       "JLPT_N5"
     ],
     "guid": "w#JO*~D@<H",
-    "meaningKo": "영화"
+    "meaningKo": "필름"
   },
   {
     "expression": "封筒",
@@ -7929,7 +7929,7 @@
       "JLPT_N5"
     ],
     "guid": "J.!iKtAY)1",
-    "meaningKo": "풀"
+    "meaningKo": "풀(수영장)"
   },
   {
     "expression": "フォーク",
@@ -7985,7 +7985,7 @@
       "JLPT_N5"
     ],
     "guid": "A@M*oG}Fjm",
-    "meaningKo": "두"
+    "meaningKo": "두개(2)"
   },
   {
     "expression": "豚肉",
@@ -8025,7 +8025,7 @@
       "JLPT_N5"
     ],
     "guid": "dRYcz7jSL;",
-    "meaningKo": "이틀"
+    "meaningKo": "2일"
   },
   {
     "expression": "太い",
@@ -8068,7 +8068,7 @@
       "JLPT_N5"
     ],
     "guid": "q(<}4NV?U@",
-    "meaningKo": "내리다"
+    "meaningKo": "내리다(눈, 비)"
   },
   {
     "expression": "古い",
@@ -8094,7 +8094,7 @@
       "JLPT_N5"
     ],
     "guid": "chUnU+#xr]",
-    "meaningKo": "~분"
+    "meaningKo": "~분(시간)"
   },
   {
     "expression": "文章",
@@ -8132,7 +8132,7 @@
       "JLPT_N5"
     ],
     "guid": "zx]n<UpO/Q",
-    "meaningKo": "나쁜"
+    "meaningKo": "서투른"
   },
   {
     "expression": "ベッド",
@@ -8187,7 +8187,7 @@
       "JLPT_N5"
     ],
     "guid": "v^uJ@o,r7C",
-    "meaningKo": "변"
+    "meaningKo": "근처,변(기하학)"
   },
   {
     "expression": "ペン",
@@ -8265,7 +8265,7 @@
       "JLPT_N5"
     ],
     "guid": "q-Rsw+YG/*",
-    "meaningKo": "외부"
+    "meaningKo": "나머지"
   },
   {
     "expression": "ポケット",
@@ -8366,7 +8366,7 @@
       "JLPT_N5"
     ],
     "guid": "Aln2n5Y6m$",
-    "meaningKo": "～책"
+    "meaningKo": "～권(책)"
   },
   {
     "expression": "本棚",
@@ -8497,7 +8497,7 @@
       "JLPT_N5"
     ],
     "guid": "AcNx(A=]3O",
-    "meaningKo": "이전"
+    "meaningKo": "이전, 앞"
   },
   {
     "expression": "～前",
@@ -8509,7 +8509,7 @@
       "JLPT_N5"
     ],
     "guid": "Jh#_2I1KK<",
-    "meaningKo": "~전"
+    "meaningKo": "~이전에"
   },
   {
     "expression": "曲る",
@@ -8536,7 +8536,7 @@
       "JLPT_N5"
     ],
     "guid": "y=A8n$:VZF",
-    "meaningKo": "좋다"
+    "meaningKo": "맛없다"
   },
   {
     "expression": "また",
@@ -8623,7 +8623,7 @@
       "JLPT_N5"
     ],
     "guid": "r{cxPi6M{l",
-    "meaningKo": "성냥"
+    "meaningKo": "매치, 성냥"
   },
   {
     "expression": "窓",
@@ -8662,7 +8662,7 @@
       "JLPT_N5"
     ],
     "guid": "k%8Ts^<^Df",
-    "meaningKo": "만"
+    "meaningKo": "만(10000)"
   },
   {
     "expression": "万年筆",
@@ -8760,7 +8760,7 @@
       "JLPT_N5"
     ],
     "guid": "u/XQDC4A&:",
-    "meaningKo": "보여주는"
+    "meaningKo": "보여주다"
   },
   {
     "expression": "道",
@@ -8802,7 +8802,7 @@
       "JLPT_N5"
     ],
     "guid": "E%f95v%koQ",
-    "meaningKo": "세"
+    "meaningKo": "3개"
   },
   {
     "expression": "緑",
@@ -8842,7 +8842,7 @@
       "JLPT_N5"
     ],
     "guid": "tmB.Hd2Sk_",
-    "meaningKo": "남"
+    "meaningKo": "남쪽"
   },
   {
     "expression": "耳",
@@ -8869,7 +8869,7 @@
       "JLPT_N5"
     ],
     "guid": "LJ*9Zy3g--",
-    "meaningKo": "보기"
+    "meaningKo": "보다"
   },
   {
     "expression": "みんな",
@@ -8910,7 +8910,7 @@
       "JLPT_N5"
     ],
     "guid": "mQG@k1[%|C",
-    "meaningKo": "저기"
+    "meaningKo": "맞은 편, 저쪽"
   },
   {
     "expression": "難しい",
@@ -8940,7 +8940,7 @@
       "JLPT_N5"
     ],
     "guid": ",[k`qyR3)",
-    "meaningKo": "여섯"
+    "meaningKo": "여섯개"
   },
   {
     "expression": "村",
@@ -9039,7 +9039,7 @@
       "JLPT_N5"
     ],
     "guid": "nnhl#WnLYa",
-    "meaningKo": "만약"
+    "meaningKo": "여보세요"
   },
   {
     "expression": "持つ",
@@ -9129,7 +9129,7 @@
       "JLPT_N5"
     ],
     "guid": "C[.TX0anRy",
-    "meaningKo": "야오야"
+    "meaningKo": "야채가게"
   },
   {
     "expression": "野菜",
@@ -9169,7 +9169,7 @@
       "JLPT_N5"
     ],
     "guid": "ie=X%ZqpqO",
-    "meaningKo": "싸다"
+    "meaningKo": "싸다(가격이)"
   },
   {
     "expression": "休み",
@@ -9267,7 +9267,7 @@
       "JLPT_N5"
     ],
     "guid": "x@-+;z#Bdx",
-    "meaningKo": "저녁"
+    "meaningKo": "저녁식사"
   },
   {
     "expression": "郵便局",
@@ -9359,7 +9359,7 @@
       "JLPT_N5"
     ],
     "guid": "uv*)pIfBA|",
-    "meaningKo": "옷"
+    "meaningKo": "양복"
   },
   {
     "expression": "よく",
@@ -9388,7 +9388,7 @@
       "JLPT_N5"
     ],
     "guid": "C?K**~xaVS",
-    "meaningKo": "수평"
+    "meaningKo": "가로"
   },
   {
     "expression": "四日",
@@ -9417,7 +9417,7 @@
       "JLPT_N5"
     ],
     "guid": "BL9b_E4!L$",
-    "meaningKo": "네"
+    "meaningKo": "4개"
   },
   {
     "expression": "呼ぶ",
@@ -9444,7 +9444,7 @@
       "JLPT_N5"
     ],
     "guid": "G8F?CvYLz|",
-    "meaningKo": "읽기"
+    "meaningKo": "읽다"
   },
   {
     "expression": "夜",
@@ -9539,7 +9539,7 @@
       "JLPT_N5"
     ],
     "guid": "eBPF6I+,&0",
-    "meaningKo": "라디오 카세"
+    "meaningKo": "라디오 카세트"
   },
   {
     "expression": "りっぱ",
@@ -9552,7 +9552,7 @@
       "JLPT_N5"
     ],
     "guid": "J%`%&)W1.O",
-    "meaningKo": "리파"
+    "meaningKo": "훌륭한"
   },
   {
     "expression": "留学生",
@@ -9623,7 +9623,7 @@
       "JLPT_N5"
     ],
     "guid": "rc1t]Q^qI(",
-    "meaningKo": "0"
+    "meaningKo": "영(숫자 0)"
   },
   {
     "expression": "冷蔵庫",
@@ -9649,7 +9649,7 @@
       "JLPT_N5"
     ],
     "guid": "xn:3qV.c32",
-    "meaningKo": "기록"
+    "meaningKo": "레코드(기록)"
   },
   {
     "expression": "レストラン",
@@ -9796,7 +9796,7 @@
       "JLPT_N5"
     ],
     "guid": "KvDHRUZ*r&",
-    "meaningKo": "전달"
+    "meaningKo": "건네주다"
   },
   {
     "expression": "渡る",
